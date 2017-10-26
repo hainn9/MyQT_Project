@@ -1,0 +1,1596 @@
+Abashiri; Population = 38548; Area = 471; Founded = 1947-02-11
+Abiko; Population = 133533; Area = 43.19; Founded = 1970-07-01
+Agano; Population = 46158; Area = 192.72; Founded = 2004-04-01
+Ageo; Population = 222479; Area = 45.55; Founded = 1958-07-15
+Aioi; Population = 31973; Area = 90.45; Founded = 1942-10-01
+Aira; Population = -; Area = 231.32; Founded = 2010-03-23
+Aisai; Population = 65481; Area = 66.63; Founded = 2005-04-01
+Aizuwakamatsu; Population = 129388; Area = 383.03; Founded = 1899-04-01
+Akabira; Population = 12234; Area = 129.88; Founded = 1954-07-01
+Akaiwa; Population = 43742; Area = 209.43; Founded = 2005-03-07
+Akashi; Population = 292162; Area = 49.24; Founded = 1919-11-01
+Aki; Population = 20555; Area = 317.34; Founded = 1954-08-01
+Akiruno; Population = 80268; Area = 73.34; Founded = 1995-09-01
+Akishima; Population = 111763; Area = 17.33; Founded = 1954-05-01
+Akita; Population = 329287; Area = 905.67; Founded = 1889-04-01
+Akitakata; Population = 32323; Area = 537.79; Founded = 2004-03-01
+AkoAko; Population = 51277; Area = 126.88; Founded = 1951-09-01
+Akune; Population = 24166; Area = 134.3; Founded = 1952-04-01
+Ama; Population = -; Area = 27.59; Founded = 2010-03-22
+Amagasaki; Population = 461202; Area = 49.77; Founded = 1916-04-01
+Amakusa; Population = 93047; Area = 683.17; Founded = 2006-03-27
+Amami; Population = 48116; Area = 306.2; Founded = 2006-03-20
+Anan; Population = 77099; Area = 279.39; Founded = 1958-05-01
+AnjoAnjo; Population = 176046; Area = 86.01; Founded = 1952-05-05
+Annaka; Population = 62270; Area = 276.34; Founded = 2006-03-18
+Aomori; Population = 305884; Area = 824.52; Founded = 2005-04-01
+Arao; Population = 55505; Area = 57.15; Founded = 1942-04-01
+Arida; Population = 31194; Area = 36.92; Founded = 1956-05-01
+Asago; Population = 34084; Area = 402.98; Founded = 2005-04-01
+Asahi; Population = 69971; Area = 129.91; Founded = 2005-07-01
+Asahikawa; Population = 350511; Area = 747.6; Founded = 1922-08-01
+Asaka; Population = 126902; Area = 18.38; Founded = 1967-03-15
+Asakuchi; Population = 37108; Area = 66.46; Founded = 2006-03-21
+Asakura; Population = 57881; Area = 246.73; Founded = 2006-03-20
+Ashibetsu; Population = 16465; Area = 865.02; Founded = 1953-04-01
+Ashikaga; Population = 157793; Area = 177.82; Founded = 1921-01-01
+Ashiya; Population = 92828; Area = 18.47; Founded = 1940-11-10
+Aso; Population = 29149; Area = 376.25; Founded = 2005-02-11
+Atami; Population = 40524; Area = 61.56; Founded = 1937-04-10
+Atsugi; Population = 225163; Area = 93.83; Founded = 1955-02-01
+Awa; Population = 40303; Area = 190.97; Founded = 2005-04-01
+Awaji; Population = 47849; Area = 184.21; Founded = 2005-04-01
+Awara; Population = 30765; Area = 116.99; Founded = 2004-03-01
+Ayabe; Population = 37081; Area = 347.11; Founded = 1950-08-01
+Ayase; Population = 82083; Area = 22.28; Founded = 1978-11-01
+Azumino; Population = 97084; Area = 331.82; Founded = 2005-10-01
+BandoBando; Population = 57128; Area = 123.18; Founded = 2005-03-22
+Beppu; Population = 127345; Area = 125.15; Founded = 1924-04-01
+Bibai; Population = 25312; Area = 277.61; Founded = 1950-04-01
+Bizen; Population = 39117; Area = 258.23; Founded = 1971-04-01
+Bungo-onoBungo-ono; Population = 40409; Area = 603.36; Founded = 2005-03-31
+Bungotakada; Population = 24484; Area = 206.64; Founded = 1954-05-31
+Buzen; Population = 27578; Area = 111.17; Founded = 1955-04-10
+Chiba; Population = 938695; Area = 272.08; Founded = 1921-01-01
+Chichibu; Population = 69139; Area = 577.69; Founded = 1950-04-01
+Chigasaki; Population = 231005; Area = 35.71; Founded = 1947-10-01
+Chikugo; Population = 48281; Area = 41.85; Founded = 1954-04-01
+Chikuma; Population = 63305; Area = 119.84; Founded = 2003-09-01
+Chikusei; Population = 110813; Area = 205.35; Founded = 2005-03-28
+Chikushino; Population = 98914; Area = 87.78; Founded = 1972-04-01
+Chino; Population = 57363; Area = 266.41; Founded = 1958-08-01
+ChiryuChiryu; Population = 68216; Area = 16.34; Founded = 1970-12-01
+Chita; Population = 84782; Area = 45.43; Founded = 1970-09-01
+Chitose; Population = 94124; Area = 594.95; Founded = 1958-07-01
+ChofuChofu; Population = 219053; Area = 21.53; Founded = 1955-04-01
+ChoshiChoshi; Population = 72348; Area = 83.91; Founded = 1933-02-11
+ChuoChuo; Population = 31875; Area = 31.81; Founded = 2006-02-20
+Daisen; Population = 91143; Area = 866.67; Founded = 2005-03-22
+DaitoDaito; Population = 125847; Area = 18.27; Founded = 1956-04-01
+Date, Fukushima; Population = 67487; Area = 265.1; Founded = 2006-01-01
+Date, Hokkaido; Population = 36461; Area = 444.28; Founded = 1972-04-01
+Dazaifu; Population = 68561; Area = 29.58; Founded = 1982-04-01
+Ebetsu; Population = 120940; Area = 187.57; Founded = 1954-07-01
+Ebina; Population = 126035; Area = 26.48; Founded = 1971-11-01
+Ebino; Population = 22445; Area = 283; Founded = 1970-12-01
+Echizen; Population = 87116; Area = 230.75; Founded = 2005-10-01
+Ena; Population = 54844; Area = 504.19; Founded = 2004-10-25
+Eniwa; Population = 68754; Area = 294.87; Founded = 1970-11-01
+Etajima; Population = 28601; Area = 100.97; Founded = 2004-11-01
+FuchuFuchu, Hiroshima; Population = 44212; Area = 195.71; Founded = 1954-03-31
+FuchuFuchu, Tokyo; Population = 248445; Area = 29.34; Founded = 1954-04-01
+Fuefuki; Population = 71184; Area = 201.92; Founded = 2004-10-12
+Fuji; Population = 237279; Area = 214.1; Founded = 1966-11-01
+Fujieda; Population = 129637; Area = 140.74; Founded = 1954-03-31
+Fujiidera; Population = 65892; Area = 8.89; Founded = 1966-11-01
+Fujimi; Population = 105286; Area = 19.7; Founded = 1972-04-10
+Fujimino; Population = 103724; Area = 14.67; Founded = 2005-10-01
+Fujinomiya; Population = 122122; Area = 314.81; Founded = 1942-06-01
+Fujioka; Population = 68710; Area = 180.09; Founded = 1954-04-01
+Fujisawa; Population = 402628; Area = 69.51; Founded = 1940-10-01
+Fujiyoshida; Population = 51879; Area = 121.83; Founded = 1951-03-20
+Fukagawa; Population = 23215; Area = 529.23; Founded = 1963-05-01
+Fukaya; Population = 146128; Area = 137.58; Founded = 2006-01-01
+Fukuchiyama; Population = 80836; Area = 552.57; Founded = 1937-04-01
+Fukui; Population = 268574; Area = 536.17; Founded = 1889-04-01
+Fukuoka; Population = 1430371; Area = 340.96; Founded = 1889-04-01
+Fukuroi; Population = 85163; Area = 108.56; Founded = 1958-11-03
+Fukushima; Population = 289355; Area = 746.43; Founded = 1907-04-01
+Fukutsu; Population = 55123; Area = 52.7; Founded = 2005-01-24
+Fukuyama; Population = 461368; Area = 518.07; Founded = 1916-07-01
+Funabashi; Population = 586762; Area = 85.64; Founded = 1937-04-01
+Furano; Population = 23890; Area = 600.97; Founded = 1966-05-01
+Fussa; Population = 60413; Area = 10.24; Founded = 1970-07-01
+Futtsu; Population = 48973; Area = 205.35; Founded = 1971-09-01
+GamagoriGamagori; Population = 82264; Area = 56.81; Founded = 1954-04-01
+Gero; Population = 37455; Area = 851.06; Founded = 2004-03-01
+Gifu; Population = 412779; Area = 202.89; Founded = 1889-07-01
+Ginowan; Population = 91233; Area = 19.7; Founded = 1962-07-01
+GoboGobo; Population = 26335; Area = 43.93; Founded = 1954-04-01
+GojoGojo; Population = 36002; Area = 292.05; Founded = 1957-10-15
+Gose; Population = 31160; Area = 60.58; Founded = 1958-03-31
+Gosen; Population = 55936; Area = 351.87; Founded = 2006-01-01
+Goshogawara; Population = 60788; Area = 404.58; Founded = 2005-03-28
+Gotenba; Population = 88078; Area = 194.63; Founded = 1955-02-11
+GotoGoto; Population = 42447; Area = 420.77; Founded = 2004-08-01
+GotsuGotsu; Population = 26958; Area = 268.51; Founded = 1954-04-01
+GujoGujo; Population = 46338; Area = 1030.79; Founded = 2004-03-01
+GyodaGyoda; Population = 87462; Area = 67.37; Founded = 1949-05-03
+Habikino; Population = 118281; Area = 26.44; Founded = 1959-01-15
+Hachimantai; Population = 29993; Area = 862.25; Founded = 2005-09-01
+Hachinohe; Population = 241613; Area = 305.17; Founded = 1929-05-01
+HachiojiHachioji; Population = 567367; Area = 186.31; Founded = 1917-09-01
+Hadano; Population = 169201; Area = 103.61; Founded = 1955-01-01
+Hagi; Population = 55831; Area = 698.87; Founded = 2005-03-06
+Hakodate; Population = 277056; Area = 677.89; Founded = 1922-08-01
+Hakui; Population = 23963; Area = 81.96; Founded = 1958-07-01
+Hakusan; Population = 110563; Area = 755.17; Founded = 2005-02-01
+Hamada; Population = 61325; Area = 689.6; Founded = 2005-10-01
+Hamamatsu; Population = 811431; Area = 1511.17; Founded = 1911-07-01
+Hamura; Population = 56984; Area = 9.91; Founded = 1991-11-01
+Hanamaki; Population = 103718; Area = 908.32; Founded = 2006-01-01
+Handa; Population = 117927; Area = 47.24; Founded = 1937-10-01
+Hannan; Population = 56853; Area = 36.1; Founded = 1991-10-01
+HannoHanno; Population = 84053; Area = 193.16; Founded = 1954-01-01
+HanyuHanyu; Population = 56820; Area = 58.55; Founded = 1954-09-01
+Hashima; Population = 67167; Area = 53.64; Founded = 1954-04-01
+Hashimoto; Population = 67505; Area = 130.31; Founded = 2006-03-01
+Hasuda; Population = 63375; Area = 27.27; Founded = 1972-10-01
+Hatsukaichi; Population = 115184; Area = 489.36; Founded = 1988-04-01
+Hekinan; Population = 73024; Area = 35.86; Founded = 1948-04-05
+Hida; Population = 28112; Area = 792.31; Founded = 2004-02-01
+Hidaka; Population = 55454; Area = 47.5; Founded = 1991-10-01
+Higashihiroshima; Population = 187711; Area = 635.32; Founded = 1974-04-20
+Higashikagawa; Population = 34953; Area = 153.35; Founded = 2003-04-01
+Higashikurume; Population = 115405; Area = 12.92; Founded = 1970-10-01
+Higashimatsushima; Population = 43238; Area = 101.86; Founded = 2005-04-01
+Higashimatsuyama; Population = 90840; Area = 65.33; Founded = 1954-07-01
+Higashimurayama; Population = 146585; Area = 17.17; Founded = 1964-04-01
+Higashine; Population = 46141; Area = 207.17; Founded = 1958-11-03
+HigashiomiHigashiomi; Population = 117487; Area = 388.58; Founded = 2005-02-11
+HigashiosakaHigashiosaka; Population = 509157; Area = 61.81; Founded = 1967-02-01
+Higashiyamato; Population = 81445; Area = 13.54; Founded = 1970-10-01
+Hikari; Population = 53274; Area = 91.94; Founded = 2004-10-04
+Hikone; Population = 110945; Area = 196.84; Founded = 1937-02-11
+Himeji; Population = 536170; Area = 534.27; Founded = 1889-04-01
+Himi; Population = 53316; Area = 230.47; Founded = 1952-08-01
+Hino; Population = 179482; Area = 27.53; Founded = 1963-11-03
+Hioki; Population = 51472; Area = 253.06; Founded = 2005-05-01
+Hirado; Population = 36785; Area = 235.63; Founded = 2005-10-01
+Hirakata; Population = 406201; Area = 65.08; Founded = 1947-08-01
+Hirakawa; Population = 34638; Area = 345.81; Founded = 2006-01-01
+Hiratsuka; Population = 260419; Area = 67.83; Founded = 1932-04-01
+Hirosaki; Population = 185865; Area = 523.6; Founded = 2006-02-27
+Hiroshima; Population = 1163806; Area = 905.13; Founded = 1889-04-01
+Hita; Population = 72601; Area = 666.19; Founded = 1940-12-11
+Hitachi; Population = 195844; Area = 225.55; Founded = 1939-09-01
+Hitachinaka; Population = 155338; Area = 99.04; Founded = 1994-11-01
+HitachiomiyaHitachiomiya; Population = 46729; Area = 348.38; Founded = 2004-10-16
+HitachiotaHitachiota; Population = 58461; Area = 372.01; Founded = 1954-07-15
+Hitoyoshi; Population = 36556; Area = 210.55; Founded = 1942-02-11
+HofuHofu; Population = 116393; Area = 188.59; Founded = 1936-08-25
+Hokota; Population = 50869; Area = 203.9; Founded = 2005-10-11
+Hokuto, Hokkaido; Population = 48779; Area = 397.3; Founded = 2006-02-01
+Hokuto, Yamanashi; Population = 47754; Area = 602.89; Founded = 2004-11-01
+HonjoHonjo; Population = 81805; Area = 89.71; Founded = 2006-01-10
+HyugaHyuga; Population = 63066; Area = 336.29; Founded = 1951-04-01
+Ibara; Population = 44423; Area = 243.36; Founded = 1953-04-01
+Ibaraki; Population = 272240; Area = 76.52; Founded = 1948-01-01
+Ibusuki; Population = 45455; Area = 149.01; Founded = 1954-04-01
+Ichihara; Population = 279591; Area = 368.2; Founded = 1963-05-01
+Ichikawa; Population = 470149; Area = 57.4; Founded = 1934-11-03
+Ichikikushikino; Population = 32079; Area = 112.04; Founded = 2005-10-11
+Ichinomiya; Population = 375939; Area = 113.91; Founded = 1921-09-01
+Ichinoseki; Population = 123155; Area = 1133.1; Founded = 2005-09-20
+Iga; Population = 99662; Area = 558.17; Founded = 2004-11-01
+Iida; Population = 107129; Area = 658.76; Founded = 1956-09-30
+Iiyama; Population = 24155; Area = 202.32; Founded = 1954-08-01
+Iizuka; Population = 132208; Area = 214.13; Founded = 2006-03-26
+Ikeda; Population = 104426; Area = 22.09; Founded = 1939-04-29
+Iki; Population = 30352; Area = 138.5; Founded = 2004-03-01
+Ikoma; Population = 115359; Area = 53.18; Founded = 1971-11-01
+Imabari; Population = 170986; Area = 419.85; Founded = 2005-01-16
+Imari; Population = 57604; Area = 254.99; Founded = 1954-04-01
+Imizu; Population = 94691; Area = 109.18; Founded = 2005-11-01
+Ina; Population = 71937; Area = 667.81; Founded = 2006-03-31
+Inabe; Population = 46676; Area = 219.58; Founded = 2003-12-01
+Inagi; Population = 80772; Area = 17.97; Founded = 1971-11-01
+Inashiki; Population = 48125; Area = 178.12; Founded = 2005-03-22
+Inazawa; Population = 137475; Area = 79.3; Founded = 1958-11-01
+Inuyama; Population = 75304; Area = 74.97; Founded = 1954-04-01
+Inzai; Population = 60280; Area = 53.51; Founded = 1996-04-01
+Iruma; Population = 148203; Area = 44.74; Founded = 1966-11-01
+Isa; Population = -; Area = 392.36; Founded = 2008-11-01
+Isahaya; Population = 142635; Area = 312.24; Founded = 2005-03-01
+Ise; Population = 133547; Area = 208.53; Founded = 2005-11-01
+Isehara; Population = 100779; Area = 55.52; Founded = 1971-03-01
+Isesaki; Population = 204240; Area = 139.33; Founded = 1940-09-13
+Ishigaki; Population = 46489; Area = 229; Founded = 1947-07-10
+Ishikari; Population = 60616; Area = 721.86; Founded = 1996-09-01
+Ishinomaki; Population = 163840; Area = 555.77; Founded = 1933-04-01
+Ishioka; Population = 80502; Area = 213.38; Founded = 2005-10-01
+Isumi; Population = 41605; Area = 157.5; Founded = 2005-12-05
+Itako; Population = 31103; Area = 62.67; Founded = 2001-04-01
+Itami; Population = 194488; Area = 24.97; Founded = 1940-11-10
+Itoigawa; Population = 48653; Area = 746.24; Founded = 2005-03-19
+ItoIto; Population = 72038; Area = 124.13; Founded = 1947-08-10
+Itoman; Population = 56171; Area = 46.63; Founded = 1971-12-01
+Itoshima; Population = -; Area = 216.12; Founded = 2010-01-01
+Iwade; Population = 51843; Area = 38.5; Founded = 2006-04-01
+Iwaki; Population = 349947; Area = 1231.34; Founded = 1966-10-01
+Iwakuni; Population = 146885; Area = 872.71; Founded = 2006-03-20
+Iwakura; Population = 48042; Area = 10.49; Founded = 1971-12-01
+Iwamizawa; Population = 89023; Area = 481.1; Founded = 1943-04-01
+Iwanuma; Population = 44595; Area = 60.72; Founded = 1971-11-01
+Iwata; Population = 172583; Area = 164.08; Founded = 1948-04-01
+Iyo; Population = 38890; Area = 194.47; Founded = 2005-04-01
+Izu; Population = 35911; Area = 363.97; Founded = 2004-04-01
+Izumi, Kagoshima; Population = 56851; Area = 330.06; Founded = 1954-04-01
+Izumi, Osaka; Population = 179352; Area = 84.98; Founded = 1956-09-01
+IzumiotsuIzumiotsu; Population = 78014; Area = 12.8; Founded = 1942-04-01
+Izumisano; Population = 99636; Area = 55.03; Founded = 1948-04-01
+Izumo; Population = 146115; Area = 543.48; Founded = 1941-11-03
+Izunokuni; Population = 49711; Area = 94.71; Founded = 2005-04-01
+JoetsuJoetsu; Population = 206175; Area = 973.32; Founded = 1971-04-29
+JosoJoso; Population = 65858; Area = 123.52; Founded = 1954-07-10
+JoyoJoyo; Population = 80795; Area = 32.74; Founded = 1972-05-03
+Kadoma; Population = 130026; Area = 12.28; Founded = 1963-08-01
+Kaga; Population = 73745; Area = 306; Founded = 2005-10-01
+Kagoshima; Population = 605196; Area = 547.06; Founded = 1889-04-01
+Kahoku; Population = 34747; Area = 64.76; Founded = 2004-03-01
+Kai; Population = 74077; Area = 71.94; Founded = 2004-09-01
+Kainan; Population = 55877; Area = 101.18; Founded = 1934-05-01
+Kaizu; Population = 38532; Area = 112.31; Founded = 2005-03-28
+Kaizuka; Population = 90447; Area = 43.99; Founded = 1943-05-01
+Kakamigahara; Population = 145126; Area = 87.77; Founded = 1963-04-01
+Kakegawa; Population = 118660; Area = 265.63; Founded = 1954-03-31
+Kakogawa; Population = 267631; Area = 138.51; Founded = 1950-06-15
+Kakuda; Population = 32559; Area = 147.58; Founded = 1958-10-01
+Kama; Population = 44431; Area = 135.18; Founded = 2006-03-27
+Kamagaya; Population = 104564; Area = 21.11; Founded = 1971-09-01
+Kamaishi; Population = 41348; Area = 441.42; Founded = 1937-05-05
+Kamakura; Population = 173588; Area = 39.6; Founded = 1939-11-03
+Kameoka; Population = 93641; Area = 224.9; Founded = 1955-01-01
+Kameyama; Population = 50304; Area = 190.91; Founded = 1954-10-01
+Kami; Population = 29144; Area = 538.22; Founded = 2006-03-01
+Kamiamakusa; Population = 31051; Area = 126.13; Founded = 2004-03-31
+Kaminoyama; Population = 35086; Area = 240.95; Founded = 1954-10-01
+Kamisu; Population = 93538; Area = 147.24; Founded = 2005-08-01
+Kamo; Population = 30800; Area = 133.68; Founded = 1954-03-10
+Kamogawa; Population = 35792; Area = 191.3; Founded = 2005-02-11
+Kanazawa; Population = 455595; Area = 467.77; Founded = 1889-04-01
+Kani; Population = 99318; Area = 87.6; Founded = 1982-04-01
+Kan'onji; Population = 64020; Area = 117.47; Founded = 2007-03-12
+Kanoya; Population = 105673; Area = 448.33; Founded = 1941-05-27
+Kanuma; Population = 103690; Area = 490.62; Founded = 1948-10-10
+Kanzaki; Population = 33449; Area = 125.01; Founded = 2006-03-20
+Karatsu; Population = 129194; Area = 487.45; Founded = 2005-01-01
+Kariya; Population = 145117; Area = 50.45; Founded = 1950-04-01
+Kasai; Population = 48435; Area = 150.95; Founded = 1967-04-01
+Kasama; Population = 80646; Area = 240.27; Founded = 2006-03-19
+Kasaoka; Population = 55987; Area = 136.03; Founded = 1952-04-01
+Kashiba; Population = 72967; Area = 24.23; Founded = 1991-10-01
+Kashihara; Population = 124679; Area = 39.52; Founded = 1956-02-11
+Kashima, Ibaraki; Population = 65193; Area = 92.96; Founded = 1995-09-01
+Kashima, Saga; Population = 31326; Area = 112.1; Founded = 1954-04-01
+Kashiwa; Population = 389036; Area = 114.9; Founded = 1954-09-01
+Kashiwara; Population = 75875; Area = 25.39; Founded = 1958-10-01
+Kashiwazaki; Population = 93506; Area = 442.7; Founded = 1940-07-01
+Kasuga; Population = 107845; Area = 14.15; Founded = 1972-04-01
+Kasugai; Population = 300713; Area = 92.71; Founded = 1943-06-01
+Kasukabe; Population = 236854; Area = 65.98; Founded = 2005-10-01
+Kasumigaura; Population = 44450; Area = 118.77; Founded = 2005-03-28
+Katagami; Population = 35460; Area = 97.96; Founded = 2005-03-22
+Katano; Population = 77853; Area = 25.55; Founded = 1971-11-03
+KatoKato; Population = 39935; Area = 157.49; Founded = 2006-03-20
+Katori; Population = 85193; Area = 262.31; Founded = 2006-03-27
+Katsuragi; Population = 35194; Area = 33.73; Founded = 2004-10-01
+Katsuura; Population = 21413; Area = 94.2; Founded = 1958-10-01
+Katsuyama; Population = 26333; Area = 253.68; Founded = 1954-09-01
+Kawachinagano; Population = 114428; Area = 109.61; Founded = 1954-04-01
+Kawagoe; Population = 335693; Area = 109.16; Founded = 1922-12-01
+Kawaguchi; Population = 552883; Area = 61.97; Founded = 1933-04-01
+Kawanishi; Population = 157461; Area = 53.44; Founded = 1954-08-01
+Kawasaki; Population = 1373630; Area = 142.7; Founded = 1924-07-01
+Kazo; Population = 67862; Area = 59.4; Founded = 1954-05-03
+Kazuno; Population = 35543; Area = 707.34; Founded = 1972-04-01
+Kesennuma; Population = 64578; Area = 226.67; Founded = 2006-03-31
+Kikuchi; Population = 51471; Area = 276.66; Founded = 1958-08-01
+Kikugawa; Population = 47702; Area = 94.24; Founded = 2005-01-17
+Kimitsu; Population = 89350; Area = 318.83; Founded = 1971-09-01
+Kinokawa; Population = 67192; Area = 228.24; Founded = 2005-11-07
+Kirishima; Population = 127726; Area = 603.68; Founded = 2005-11-07
+KiryuKiryu; Population = 124892; Area = 274.57; Founded = 1921-03-01
+Kisarazu; Population = 123743; Area = 138.73; Founded = 1942-11-03
+Kishiwada; Population = 200538; Area = 72.24; Founded = 1922-11-01
+Kitaakita; Population = 38543; Area = 1152.57; Founded = 2005-03-22
+Kitahiroshima; Population = 60291; Area = 118.54; Founded = 1996-09-01
+Kitaibaraki; Population = 48437; Area = 186.55; Founded = 1956-03-31
+Kitakami; Population = 94806; Area = 437.55; Founded = 1991-04-01
+Kitakata; Population = 54684; Area = 554.67; Founded = 2006-01-04
+KitakyushuKitakyushu; Population = 986998; Area = 487.71; Founded = 1963-02-10
+Kitami; Population = 124291; Area = 1427.56; Founded = 2006-03-05
+Kitamoto; Population = 69903; Area = 19.84; Founded = 1971-11-03
+Kitanagoya; Population = 80112; Area = 18.37; Founded = 2006-03-20
+Kitsuki; Population = 33465; Area = 280.01; Founded = 2005-10-01
+Kiyose; Population = 73518; Area = 10.19; Founded = 1970-10-01
+Kiyosu; Population = 56635; Area = 13.31; Founded = 2005-07-07
+Kizugawa; Population = 66783; Area = 85.12; Founded = 2007-03-12
+Kobayashi; Population = 40514; Area = 474.23; Founded = 1950-04-01
+Kobe; Population = 1530847; Area = 552.23; Founded = 1889-04-01
+KochiKochi; Population = 342944; Area = 309.22; Founded = 1889-04-01
+Kodaira; Population = 185829; Area = 20.46; Founded = 1962-10-01
+KofuKofu; Population = 199374; Area = 212.41; Founded = 1889-07-01
+Koga, Fukuoka; Population = 57084; Area = 42.11; Founded = 1997-10-01
+Koga, Ibaraki; Population = 144392; Area = 123.58; Founded = 2005-09-12
+Koganei; Population = 115116; Area = 11.33; Founded = 1958-10-01
+KokaKoka; Population = 94007; Area = 481.69; Founded = 2004-10-01
+Kokubunji; Population = 118801; Area = 11.48; Founded = 1964-11-03
+Komae; Population = 78237; Area = 6.39; Founded = 1970-10-01
+Komagane; Population = 34696; Area = 165.92; Founded = 1954-07-01
+Komaki; Population = 149060; Area = 62.82; Founded = 1955-01-01
+Komatsu; Population = 109285; Area = 371.13; Founded = 1940-12-01
+Komatsushima; Population = 41540; Area = 45.24; Founded = 1951-06-01
+Komoro; Population = 45333; Area = 98.66; Founded = 1954-04-01
+Konan, Shiga; Population = 55144; Area = 70.49; Founded = 2004-10-01
+KonanKonan, Aichi; Population = 100064; Area = 30.17; Founded = 1954-06-01
+KonanKonan, Kochi; Population = 34084; Area = 126.49; Founded = 2006-03-01
+KonosuKonosu; Population = 119768; Area = 67.49; Founded = 1954-09-30
+KoriyamaKoriyama; Population = 339395; Area = 757.06; Founded = 1924-09-01
+Kosai; Population = 44545; Area = 55.08; Founded = 1972-01-01
+Koshigaya; Population = 318592; Area = 60.31; Founded = 1958-11-03
+KoshiKoshi; Population = 53490; Area = 53.17; Founded = 2006-02-27
+KoshuKoshu; Population = 35072; Area = 264.01; Founded = 2005-11-01
+Kudamatsu; Population = 54026; Area = 89.36; Founded = 1939-11-03
+Kuji; Population = 37824; Area = 623.14; Founded = 2006-03-06
+Kuki; Population = 71667; Area = 25.35; Founded = 1971-10-01
+Kumagaya; Population = 204853; Area = 159.88; Founded = 2005-10-01
+Kumamoto; Population = 670348; Area = 267.23; Founded = 1889-04-01
+Kumano; Population = 20477; Area = 373.63; Founded = 2005-11-01
+Kunisaki; Population = 33473; Area = 317.81; Founded = 2006-03-31
+Kunitachi; Population = 73362; Area = 8.15; Founded = 1967-01-01
+Kurashiki; Population = 472452; Area = 354.71; Founded = 1928-04-01
+Kurayoshi; Population = 51453; Area = 272.15; Founded = 1953-10-01
+Kure; Population = 246118; Area = 353.74; Founded = 1902-10-01
+Kurihara; Population = 77862; Area = 804.93; Founded = 2005-04-01
+Kurobe; Population = 42612; Area = 426.34; Founded = 2006-03-31
+Kuroishi; Population = 37585; Area = 216.96; Founded = 1954-07-01
+Kurume; Population = 305147; Area = 229.84; Founded = 1889-04-01
+Kusatsu; Population = 123512; Area = 67.92; Founded = 1954-10-15
+Kushima; Population = 21386; Area = 294.96; Founded = 1954-11-03
+Kushiro; Population = 182263; Area = 1362.75; Founded = 2005-10-11
+Kuwana; Population = 140816; Area = 136.61; Founded = 1937-04-01
+KyotanabeKyotanabe; Population = 65211; Area = 42.94; Founded = 1997-04-01
+KyotangoKyotango; Population = 60980; Area = 501.84; Founded = 2004-04-01
+Kyoto; Population = 1468906; Area = 827.9; Founded = 1889-04-01
+Machida; Population = 413786; Area = 71.63; Founded = 1958-02-01
+Maebashi; Population = 318058; Area = 241.22; Founded = 1892-04-01
+Maibara; Population = 40757; Area = 250.46; Founded = 2005-02-14
+Maizuru; Population = 90461; Area = 342.15; Founded = 1943-05-27
+Makinohara; Population = 49726; Area = 111.5; Founded = 2005-10-11
+Makurazaki; Population = 24400; Area = 74.88; Founded = 1949-09-01
+Maniwa; Population = 50405; Area = 828.43; Founded = 2005-03-31
+Marugame; Population = 110550; Area = 111.79; Founded = 1899-04-01
+Masuda; Population = 50980; Area = 733.16; Founded = 1952-08-01
+Matsubara; Population = 125274; Area = 16.66; Founded = 1955-02-01
+Matsudo; Population = 477603; Area = 61.33; Founded = 1943-04-01
+Matsue; Population = 195875; Area = 530.27; Founded = 1889-04-01
+Matsumoto; Population = 227392; Area = 919.35; Founded = 1907-05-01
+Matsusaka; Population = 169571; Area = 623.82; Founded = 1933-02-01
+Matsuura; Population = 26007; Area = 130.35; Founded = 2006-01-01
+Matsuyama; Population = 515068; Area = 429.03; Founded = 1889-12-15
+Midori; Population = 51964; Area = 208.23; Founded = 2006-03-27
+Mihara; Population = 103209; Area = 471.03; Founded = 1936-11-15
+Mikasa; Population = 10070; Area = 302.64; Founded = 1957-04-01
+Miki; Population = 83244; Area = 176.58; Founded = 1954-06-01
+Mima; Population = 33520; Area = 367.38; Founded = 2005-03-01
+Mimasaka; Population = 31550; Area = 429.19; Founded = 2005-03-31
+Minamata; Population = 28123; Area = 162.88; Founded = 1949-04-01
+Minami-Alps; Population = 72295; Area = 264.06; Founded = 2003-04-01
+Minamiashigara; Population = 44285; Area = 76.93; Founded = 1972-04-01
+Minamiawaji; Population = 51069; Area = 229.18; Founded = 2005-01-11
+MinamibosoMinamiboso; Population = 43553; Area = 230.22; Founded = 2006-03-20
+MinamikyushuMinamikyushu; Population = 40891; Area = 357.85; Founded = 2007-12-01
+Minamisatsuma; Population = 40386; Area = 283.35; Founded = 1954-07-15
+Minamishimabara; Population = 52347; Area = 169.88; Founded = 2006-03-31
+MinamisomaMinamisoma; Population = 71761; Area = 398.5; Founded = 2006-01-01
+Minamiuonuma; Population = 62518; Area = 584.82; Founded = 2004-11-01
+Mine; Population = 17355; Area = 228.25; Founded = 1954-03-31
+Mino, Gifu; Population = 22912; Area = 117.05; Founded = 1954-04-01
+Minoh, Osaka; Population = 127757; Area = 47.84; Founded = 1956-12-01
+Minokamo; Population = 53988; Area = 74.81; Founded = 1954-04-01
+Misato; Population = 128956; Area = 30.16; Founded = 1972-05-03
+Misawa; Population = 42535; Area = 119.97; Founded = 1958-09-01
+Mishima; Population = 112320; Area = 62.13; Founded = 1941-04-29
+Mitaka; Population = 180797; Area = 16.5; Founded = 1950-11-03
+Mito; Population = 264062; Area = 217.43; Founded = 1889-04-01
+Mitoyo; Population = 69997; Area = 222.66; Founded = 2006-01-01
+Mitsuke; Population = 42139; Area = 77.96; Founded = 1954-03-31
+Miura; Population = 49371; Area = 32.28; Founded = 1955-01-01
+Miyako; Population = 58342; Area = 696.82; Founded = 2005-06-06
+Miyakojima; Population = 52777; Area = 204.54; Founded = 2005-10-01
+MiyakonojoMiyakonojo; Population = 169384; Area = 653.31; Founded = 1924-04-01
+Miyama; Population = 42219; Area = 105.12; Founded = 2007-01-29
+Miyawaka; Population = 30793; Area = 139.99; Founded = 2006-02-11
+Miyazaki; Population = 369473; Area = 596.8; Founded = 1924-04-01
+Miyazu; Population = 20565; Area = 169.32; Founded = 1954-06-01
+Miyoshi; Population = -; Area = 32.11; Founded = 2010-01-04
+Miyoshi, Hiroshima; Population = 58264; Area = 778.19; Founded = 1954-03-31
+Miyoshi, Tokushima; Population = 32329; Area = 721.48; Founded = 2006-03-01
+Mizuho; Population = 51230; Area = 28.18; Founded = 2003-05-01
+Mizunami; Population = 41556; Area = 175; Founded = 1954-04-01
+Mobara; Population = 93032; Area = 100.01; Founded = 1952-04-01
+Monbetsu; Population = 24293; Area = 830.7; Founded = 1954-07-01
+Mooka; Population = 66705; Area = 111.76; Founded = 1954-10-01
+Moriguchi; Population = 146294; Area = 12.73; Founded = 1946-11-01
+Morioka; Population = 299746; Area = 886.47; Founded = 1889-04-01
+Moriya; Population = 57793; Area = 35.63; Founded = 2002-02-02
+Moriyama; Population = 74263; Area = 54.81; Founded = 1970-07-01
+Motomiya; Population = 31737; Area = 87.94; Founded = 2007-01-01
+Motosu; Population = 34729; Area = 374.57; Founded = 2004-02-01
+MukoMuko; Population = 55137; Area = 7.67; Founded = 1972-10-01
+Munakata; Population = 94877; Area = 119.66; Founded = 1981-04-01
+Murakami; Population = 30197; Area = 142.12; Founded = 1954-03-31
+Murayama; Population = 27586; Area = 196.83; Founded = 1954-11-01
+Muroran; Population = 93078; Area = 80.65; Founded = 1922-08-01
+Muroto; Population = 17683; Area = 248.25; Founded = 1959-03-01
+Musashimurayama; Population = 68333; Area = 15.37; Founded = 1970-11-03
+Musashino; Population = 138516; Area = 10.73; Founded = 1947-11-03
+Mutsu; Population = 62220; Area = 863.79; Founded = 1959-09-01
+MyokoMyoko; Population = 36837; Area = 445.52; Founded = 1954-11-01
+Nabari; Population = 81184; Area = 129.76; Founded = 1954-03-31
+Nagahama; Population = 83555; Area = 247.01; Founded = 2006-02-13
+Nagai; Population = 30285; Area = 214.69; Founded = 1954-11-15
+Nagano; Population = 378204; Area = 730.83; Founded = 1966-10-16
+Nagaoka; Population = 281222; Area = 840.88; Founded = 1906-04-01
+NagaokakyoNagaokakyo; Population = 79031; Area = 19.18; Founded = 1972-10-01
+Nagareyama; Population = 156686; Area = 35.28; Founded = 1967-01-01
+Nagasaki; Population = 448792; Area = 406.37; Founded = 1889-04-01
+Nagato; Population = 39825; Area = 357.92; Founded = 2005-03-22
+Nago; Population = 60598; Area = 210.3; Founded = 1970-08-01
+Nagoya; Population = 2239464; Area = 326.45; Founded = 1889-10-01
+Naha; Population = 314162; Area = 39.23; Founded = 1921-05-20
+Naka; Population = 54618; Area = 97.8; Founded = 2005-01-21
+Nakama; Population = 45549; Area = 15.98; Founded = 1958-11-01
+Nakano; Population = 46295; Area = 112.06; Founded = 2005-04-01
+Nakatsu; Population = 84179; Area = 491.09; Founded = 1929-04-20
+Nakatsugawa; Population = 83116; Area = 676.38; Founded = 1952-04-01
+Namegata; Population = 39117; Area = 166.33; Founded = 2005-09-02
+Namerikawa; Population = 33789; Area = 54.61; Founded = 1954-03-01
+Nanao; Population = 60140; Area = 317.96; Founded = 1939-07-20
+NanjoNanjo; Population = 39458; Area = 49.7; Founded = 2006-01-01
+Nankoku; Population = 50315; Area = 125.35; Founded = 1959-10-01
+Nantan; Population = 35937; Area = 616.31; Founded = 2006-06-01
+Nanto; Population = 57061; Area = 668.86; Founded = 2004-11-01
+Nan'yoNan'yo; Population = 34542; Area = 160.7; Founded = 1967-04-01
+Nara; Population = 367393; Area = 276.84; Founded = 1898-02-01
+Narashino; Population = 159758; Area = 20.99; Founded = 1954-08-01
+Narita; Population = 124773; Area = 213.84; Founded = 1954-03-31
+Naruto; Population = 62453; Area = 135.46; Founded = 1947-03-15
+Nasukarasuyama; Population = 30433; Area = 174.42; Founded = 2005-10-01
+Nasushiobara; Population = 115633; Area = 592.82; Founded = 2005-01-01
+Natori; Population = 69610; Area = 100.06; Founded = 1958-10-01
+Nayoro; Population = 29869; Area = 535.23; Founded = 2006-03-27
+Nemuro; Population = 28923; Area = 512.63; Founded = 1957-08-01
+Neyagawa; Population = 239029; Area = 24.73; Founded = 1951-05-03
+Nichinan; Population = 43264; Area = 294.46; Founded = 1950-01-01
+Nihonmatsu; Population = 61698; Area = 344.65; Founded = 2005-12-01
+Niigata; Population = 813053; Area = 726.1; Founded = 1889-04-01
+Niihama; Population = 123329; Area = 234.3; Founded = 1937-11-03
+Niimi; Population = 35022; Area = 793.27; Founded = 1954-06-01
+Niiza; Population = 155926; Area = 22.8; Founded = 1970-11-01
+Nikaho; Population = 28422; Area = 240.61; Founded = 2005-10-01
+NikkoNikko; Population = 92181; Area = 1449.87; Founded = 2006-03-20
+Ninohe; Population = 30685; Area = 420.31; Founded = 2006-01-01
+Nirasaki; Population = 33539; Area = 143.73; Founded = 1954-10-10
+Nishinomiya; Population = 477056; Area = 99.96; Founded = 1925-04-01
+Nishinoomote; Population = 17666; Area = 205.75; Founded = 1958-10-01
+Nishio; Population = 106643; Area = 75.78; Founded = 1953-12-15
+NishitokyoNishitokyo; Population = 193350; Area = 15.85; Founded = 2001-01-21
+Nishiwaki; Population = 43126; Area = 132.47; Founded = 2005-10-01
+Nisshin; Population = 80921; Area = 34.9; Founded = 1994-10-01
+Nobeoka; Population = 132480; Area = 867.97; Founded = 1933-02-11
+Noboribetsu; Population = 51474; Area = 212.11; Founded = 1970-08-01
+Noda; Population = 153422; Area = 103.54; Founded = 1950-05-03
+NogataNogata; Population = 57319; Area = 61.78; Founded = 1931-01-01
+Nomi; Population = 48106; Area = 83.85; Founded = 2005-02-01
+Noshiro; Population = 61295; Area = 426.74; Founded = 2006-03-21
+Numata; Population = 52319; Area = 443.37; Founded = 1954-04-01
+Numazu; Population = 206818; Area = 187.11; Founded = 1923-07-01
+Obama; Population = 31486; Area = 232.86; Founded = 1951-03-30
+Obanazawa; Population = 19937; Area = 372.32; Founded = 1959-04-10
+Obihiro; Population = 168188; Area = 618.94; Founded = 1933-04-01
+ObuObu; Population = 83097; Area = 33.68; Founded = 1970-09-01
+OdaOda; Population = 39593; Area = 436.11; Founded = 2005-10-01
+OdateOdate; Population = 80587; Area = 913.7; Founded = 1951-04-01
+Odawara; Population = 198841; Area = 114.09; Founded = 1940-12-20
+OfunatoOfunato; Population = 42119; Area = 323.28; Founded = 1952-04-01
+Oga; Population = 34194; Area = 240.8; Founded = 2005-03-22
+OgakiOgaki; Population = 163047; Area = 206.52; Founded = 1918-04-01
+Ogi; Population = 45516; Area = 95.85; Founded = 2005-03-01
+OgoriOgori; Population = 58460; Area = 45.5; Founded = 1972-04-01
+OitaOita; Population = 467267; Area = 501.25; Founded = 1911-04-01
+Ojiya; Population = 39304; Area = 155.12; Founded = 1954-03-10
+OkawaOkawa; Population = 38266; Area = 33.61; Founded = 1954-04-01
+Okaya; Population = 53722; Area = 85.14; Founded = 1936-04-01
+Okayama; Population = 701293; Area = 789.91; Founded = 1889-06-01
+Okazaki; Population = 371380; Area = 387.24; Founded = 1916-07-01
+Okegawa; Population = 74703; Area = 25.26; Founded = 1970-11-03
+Okinawa; Population = 128421; Area = 49; Founded = 1974-04-01
+OmachiOmachi; Population = 31276; Area = 564.99; Founded = 1954-07-01
+Omaezaki; Population = 35015; Area = 65.85; Founded = 2004-04-01
+OmeOme; Population = 141708; Area = 103.26; Founded = 1951-04-01
+OmihachimanOmihachiman; Population = 69116; Area = 153.09; Founded = 1954-03-31
+Omitama; Population = 52834; Area = 140.21; Founded = 2006-03-27
+OmuraOmura; Population = 89650; Area = 126.34; Founded = 1942-02-11
+OmutaOmuta; Population = 127474; Area = 81.55; Founded = 1917-03-01
+Ono, Hyogo; Population = 49664; Area = 92.92; Founded = 1954-12-01
+OnojoOnojo; Population = 94037; Area = 26.88; Founded = 1972-04-01
+Onomichi; Population = 148085; Area = 284.85; Founded = 1898-04-01
+OnoOno, Fukui; Population = 36763; Area = 872.3; Founded = 1954-07-01
+Osaka; Population = 2645305; Area = 222.3; Founded = 1889-04-01
+OsakasayamaOsakasayama; Population = 58661; Area = 11.86; Founded = 1987-10-01
+OsakiOsaki; Population = 137164; Area = 796.76; Founded = 2006-03-31
+OshuOshu; Population = 128273; Area = 993.35; Founded = 2006-02-20
+OtakeOtake; Population = 29665; Area = 78.55; Founded = 1954-09-01
+OtaOta; Population = 214049; Area = 176.49; Founded = 1948-05-03
+Otaru; Population = 130255; Area = 243.3; Founded = 1922-08-01
+OtawaraOtawara; Population = 78563; Area = 354.12; Founded = 1954-12-01
+OtsukiOtsuki; Population = 29869; Area = 280.3; Founded = 1954-08-08
+OtsuOtsu; Population = 329024; Area = 464.1; Founded = 1898-10-01
+Owariasahi; Population = 79197; Area = 21.03; Founded = 1970-12-01
+Owase; Population = 21272; Area = 193.16; Founded = 1954-06-20
+Oyabe; Population = 32656; Area = 134.11; Founded = 1962-08-01
+Oyama; Population = 162283; Area = 171.61; Founded = 1954-03-31
+OzuOzu; Population = 49543; Area = 432.2; Founded = 2005-01-11
+Rikuzentakata; Population = 23961; Area = 232.29; Founded = 1955-01-01
+RittoRitto; Population = 62353; Area = 52.75; Founded = 2001-10-01
+Rumoi; Population = 24036; Area = 297.44; Founded = 1947-10-01
+RyugasakiRyugasaki; Population = 79295; Area = 78.2; Founded = 1954-03-20
+Sabae; Population = 67430; Area = 84.75; Founded = 1955-01-15
+Sado; Population = 65037; Area = 855.26; Founded = 2004-03-01
+Saga; Population = 239932; Area = 431.42; Founded = 2005-10-01
+Sagae; Population = 43299; Area = 139.08; Founded = 1954-08-01
+Sagamihara; Population = 706342; Area = 328.84; Founded = 1954-11-20
+SaijoSaijo; Population = 112543; Area = 509.05; Founded = 2004-11-01
+Saikai; Population = 32737; Area = 241.95; Founded = 2005-04-01
+Saiki; Population = 78675; Area = 903.44; Founded = 1941-04-29
+Saitama; Population = 1192418; Area = 217.49; Founded = 2001-05-01
+Saito; Population = 33290; Area = 438.56; Founded = 1958-11-01
+Sakado; Population = 99680; Area = 40.97; Founded = 1976-09-01
+Sakai, Fukui; Population = 92420; Area = 209.91; Founded = 2006-03-20
+Sakai, Osaka; Population = 835333; Area = 149.99; Founded = 1889-04-01
+Sakaide; Population = 56501; Area = 92.46; Founded = 1942-07-01
+Sakaiminato; Population = 35908; Area = 28.79; Founded = 1956-04-01
+Sakata; Population = 114964; Area = 602.79; Founded = 2005-11-01
+Saku; Population = 100077; Area = 423.99; Founded = 2005-04-01
+Sakura, Chiba; Population = 171472; Area = 103.59; Founded = 1954-03-31
+Sakura, Tochigi; Population = 42403; Area = 125.46; Founded = 2005-03-28
+Sakuragawa; Population = 47480; Area = 179.78; Founded = 2005-10-01
+Sakurai; Population = 60699; Area = 98.92; Founded = 1956-09-01
+Sanda; Population = 113600; Area = 210.22; Founded = 1958-07-01
+SanjoSanjo; Population = 103199; Area = 432.01; Founded = 2005-05-01
+Sanmu; Population = 57806; Area = 146.38; Founded = 2006-03-27
+Sano; Population = 123034; Area = 356.07; Founded = 2005-02-28
+Sanuki; Population = 54832; Area = 158.9; Founded = 2002-04-01
+San'yo-OnodaSan'yo-Onoda; Population = 65523; Area = 132.99; Founded = 2005-03-22
+Sapporo; Population = 1904319; Area = 1121.12; Founded = 1922-08-01
+Sasayama; Population = 44345; Area = 377.61; Founded = 1999-04-01
+Sasebo; Population = 254650; Area = 364; Founded = 1902-04-01
+Satsumasendai; Population = 100730; Area = 683.5; Founded = 2004-10-12
+Satte; Population = 53485; Area = 33.95; Founded = 1986-10-01
+Sayama; Population = 156634; Area = 49.04; Founded = 1954-07-01
+Seiyo; Population = 43476; Area = 514.79; Founded = 2004-04-01
+Seki; Population = 92896; Area = 472.84; Founded = 1950-10-15
+Semboku; Population = 30885; Area = 1093.64; Founded = 2005-09-20
+Sendai; Population = 1029552; Area = 783.54; Founded = 1889-04-01
+Sennan; Population = 64916; Area = 48.48; Founded = 1970-07-01
+Seto; Population = 132311; Area = 111.61; Founded = 1929-10-01
+Setouchi; Population = 38645; Area = 125.53; Founded = 2004-11-01
+Settsu; Population = 84330; Area = 14.88; Founded = 1966-11-01
+Shibata; Population = 103490; Area = 532.82; Founded = 1947-01-01
+Shibetsu; Population = 21640; Area = 1119.29; Founded = 2005-09-01
+Shibukawa; Population = 86134; Area = 240.42; Founded = 2006-02-20
+Shibushi; Population = 34105; Area = 289.93; Founded = 2006-01-01
+ShijonawateShijonawate; Population = 57239; Area = 18.74; Founded = 1970-07-01
+Shiki; Population = 68531; Area = 9.06; Founded = 1970-10-26
+ShikokuchuoShikokuchuo; Population = 91688; Area = 420.1; Founded = 2004-04-01
+Shima; Population = 56758; Area = 179.7; Founded = 2004-10-01
+Shimabara; Population = 48953; Area = 82.77; Founded = 1940-04-01
+Shimada; Population = 95762; Area = 195.4; Founded = 1948-01-01
+Shimanto; Population = 37182; Area = 632.42; Founded = 2005-04-10
+Shimoda; Population = 25784; Area = 104.7; Founded = 1971-01-01
+Shimonoseki; Population = 286073; Area = 716.06; Founded = 2005-02-13
+Shimotsuke; Population = 59459; Area = 74.58; Founded = 2006-01-10
+Shimotsuma; Population = 45918; Area = 80.88; Founded = 1954-06-01
+ShinguShingu; Population = 32654; Area = 255.43; Founded = 2005-10-01
+ShinjoShinjo; Population = 39808; Area = 223.08; Founded = 1949-04-01
+Shinshiro; Population = 51326; Area = 499; Founded = 2005-10-01
+Shiogama; Population = 58057; Area = 17.86; Founded = 1941-11-23
+Shiojiri; Population = 67781; Area = 290.13; Founded = 1959-04-01
+Shirakawa; Population = 65665; Area = 305.3; Founded = 2005-11-07
+Shiroi; Population = 57151; Area = 35.41; Founded = 2001-04-01
+Shiroishi; Population = 38629; Area = 286.47; Founded = 1954-04-01
+ShisoShiso; Population = 42302; Area = 658.6; Founded = 2005-04-01
+Shizuoka; Population = 710944; Area = 1388.78; Founded = 1889-04-01
+ShobaraShobara; Population = 41747; Area = 1246.6; Founded = 1954-03-31
+ShunanShunan; Population = 150299; Area = 656.25; Founded = 2003-04-21
+Sodegaura; Population = 59443; Area = 94.92; Founded = 1991-04-01
+SojaSoja; Population = 66789; Area = 212; Founded = 1954-03-31
+SokaSoka; Population = 237964; Area = 27.42; Founded = 1958-11-01
+SomaSoma; Population = 38543; Area = 197.67; Founded = 1954-03-31
+Soo; Population = 41179; Area = 390.39; Founded = 2005-07-01
+SosaSosa; Population = 41361; Area = 101.78; Founded = 2006-01-23
+Suita; Population = 354600; Area = 36.11; Founded = 1940-04-01
+Sukagawa; Population = 80336; Area = 279.55; Founded = 1954-03-31
+Sukumo; Population = 23771; Area = 286.11; Founded = 1954-03-31
+Sumoto; Population = 48631; Area = 182.47; Founded = 2006-02-11
+Sunagawa; Population = 18740; Area = 78.69; Founded = 1958-07-01
+Susaki; Population = 25679; Area = 135.46; Founded = 1954-10-01
+Susono; Population = 53740; Area = 138.39; Founded = 1971-01-01
+Suwa; Population = 52671; Area = 109.06; Founded = 1941-08-10
+Suzaka; Population = 53097; Area = 149.84; Founded = 1954-04-01
+Suzu; Population = 17111; Area = 247.2; Founded = 1954-07-15
+Suzuka; Population = 197437; Area = 194.67; Founded = 1942-12-01
+Tachikawa; Population = 175639; Area = 24.38; Founded = 1940-12-01
+TagajoTagajo; Population = 63200; Area = 19.65; Founded = 1971-11-01
+Tagawa; Population = 50484; Area = 54.52; Founded = 1943-11-03
+Tahara; Population = 66698; Area = 188.81; Founded = 2003-08-20
+Tainai; Population = 32165; Area = 265.18; Founded = 2005-09-01
+Tajimi; Population = 114866; Area = 91.24; Founded = 1940-08-01
+Takahagi; Population = 32031; Area = 193.65; Founded = 1954-11-23
+Takahama; Population = 43467; Area = 13; Founded = 1970-12-01
+Takahashi; Population = 37573; Area = 547.01; Founded = 1954-05-01
+Takaishi; Population = 60077; Area = 11.35; Founded = 1966-11-01
+Takamatsu; Population = 418557; Area = 375.11; Founded = 1890-02-15
+Takaoka; Population = 178965; Area = 209.38; Founded = 2005-11-01
+Takarazuka; Population = 222071; Area = 101.8; Founded = 1954-04-01
+Takasago; Population = 94198; Area = 34.4; Founded = 1954-07-01
+Takasaki; Population = 341838; Area = 401.01; Founded = 1900-04-01
+Takashima; Population = 52967; Area = 693; Founded = 2005-01-01
+Takatsuki; Population = 354228; Area = 105.31; Founded = 1943-01-01
+Takayama; Population = 94879; Area = 2177.67; Founded = 1936-11-01
+Takehara; Population = 29803; Area = 118.3; Founded = 1958-11-03
+Takeo; Population = 50788; Area = 195.44; Founded = 2006-03-01
+Taketa; Population = 25449; Area = 477.59; Founded = 1954-03-31
+Takikawa; Population = 42815; Area = 115.82; Founded = 1958-07-01
+Takizawa; Population = -; Area = 182.32; Founded = 2014-01-01
+Taku; Population = 22165; Area = 96.93; Founded = 1954-05-01
+Tama; Population = 149404; Area = 21.08; Founded = 1971-11-01
+Tamana; Population = 70747; Area = 152.55; Founded = 1954-04-01
+Tamano; Population = 65723; Area = 103.63; Founded = 1940-08-03
+Tamba; Population = 69233; Area = 493.28; Founded = 2004-11-01
+Tamura; Population = 42221; Area = 458.3; Founded = 2005-03-01
+Tanabe; Population = 80478; Area = 1026.77; Founded = 1942-05-20
+Tarumizu; Population = 18078; Area = 162.01; Founded = 1958-10-01
+Tatebayashi; Population = 79023; Area = 60.98; Founded = 1954-04-01
+Tateyama; Population = 49987; Area = 110.21; Founded = 1939-11-03
+Tatsuno; Population = 80988; Area = 210.93; Founded = 2005-10-01
+TendoTendo; Population = 63470; Area = 113.01; Founded = 1958-10-01
+Tenri; Population = 70702; Area = 86.37; Founded = 1954-04-01
+Toba; Population = 22286; Area = 107.98; Founded = 1954-11-01
+Tochigi; Population = 81601; Area = 122.06; Founded = 1937-04-01
+Toda; Population = 118591; Area = 18.17; Founded = 1966-10-01
+ToganeTogane; Population = 61591; Area = 89.34; Founded = 1954-04-01
+TokaiTokai; Population = 106708; Area = 43.36; Founded = 1969-04-01
+TokamachiTokamachi; Population = 60480; Area = 589.92; Founded = 2005-04-01
+Toki; Population = 61393; Area = 116.01; Founded = 1955-02-01
+Tokoname; Population = 52837; Area = 55.63; Founded = 1954-04-01
+Tokorozawa; Population = 338560; Area = 71.99; Founded = 1950-11-03
+Tokushima; Population = 266370; Area = 191.39; Founded = 1889-10-01
+Tomakomai; Population = 173761; Area = 561.49; Founded = 1948-04-01
+Tome; Population = 86940; Area = 536.38; Founded = 2005-04-01
+Tomigusuku; Population = 54586; Area = 19.45; Founded = 2002-04-01
+Tomioka; Population = 53332; Area = 122.9; Founded = 2006-03-27
+Tomisato; Population = 51590; Area = 53.91; Founded = 2002-04-01
+TomiTomi; Population = 31211; Area = 112.3; Founded = 2004-04-01
+Tonami; Population = 49396; Area = 126.96; Founded = 1954-04-01
+Tondabayashi; Population = 122205; Area = 39.66; Founded = 1950-04-01
+TonoTono; Population = 30587; Area = 825.62; Founded = 2005-10-01
+ToonToon; Population = 35517; Area = 211.45; Founded = 2004-09-21
+Toride; Population = 109953; Area = 69.96; Founded = 1970-10-01
+Tosa; Population = 29726; Area = 91.59; Founded = 1959-01-01
+Tosashimizu; Population = 17421; Area = 266.54; Founded = 1954-08-01
+Tosu; Population = 66842; Area = 71.73; Founded = 1954-04-01
+Tottori; Population = 200315; Area = 765.66; Founded = 1889-10-01
+Towada; Population = 66834; Area = 688.6; Founded = 2005-01-01
+Toyama; Population = 421116; Area = 1241.85; Founded = 1889-04-01
+Toyoake; Population = 69124; Area = 23.18; Founded = 1972-08-01
+Toyohashi; Population = 377045; Area = 261.35; Founded = 1906-08-01
+Toyokawa; Population = 161595; Area = 150.71; Founded = 1943-06-01
+Toyonaka; Population = 387269; Area = 36.38; Founded = 1936-10-15
+Toyooka; Population = 87555; Area = 697.66; Founded = 1950-04-01
+Toyota; Population = 420286; Area = 918.47; Founded = 1951-03-01
+Tsu; Population = 289215; Area = 710.81; Founded = 2006-01-01
+Tsubame; Population = 82910; Area = 110.88; Founded = 2006-03-20
+Tsuchiura; Population = 143986; Area = 113.82; Founded = 1940-11-03
+Tsugaru; Population = 38919; Area = 253.85; Founded = 2005-02-11
+Tsukuba; Population = 207314; Area = 284.07; Founded = 1987-11-30
+Tsukubamirai; Population = 41957; Area = 79.14; Founded = 2006-03-27
+Tsukumi; Population = 20561; Area = 79.53; Founded = 1951-04-01
+Tsuru; Population = 34439; Area = 161.58; Founded = 1954-04-29
+Tsuruga; Population = 68188; Area = 250.75; Founded = 1937-04-01
+Tsurugashima; Population = 70131; Area = 17.73; Founded = 1991-09-01
+Tsuruoka; Population = 140097; Area = 1311.51; Founded = 2005-10-01
+Tsushima, Aichi; Population = 65646; Area = 25.08; Founded = 1947-03-01
+Tsushima, Nagasaki; Population = 36347; Area = 708.81; Founded = 2004-03-01
+Tsuyama; Population = 109493; Area = 506.36; Founded = 1929-02-11
+Ube; Population = 176370; Area = 287.69; Founded = 1921-11-01
+Uda; Population = 35895; Area = 247.62; Founded = 2006-01-01
+Ueda; Population = 161887; Area = 552; Founded = 2006-03-06
+Uenohara; Population = 28295; Area = 170.65; Founded = 2005-02-13
+Uji; Population = 191297; Area = 67.55; Founded = 1951-03-01
+Uki; Population = 62718; Area = 188.56; Founded = 2005-01-15
+Ukiha; Population = 32277; Area = 117.55; Founded = 2005-03-20
+Unnan; Population = 43269; Area = 553.37; Founded = 2004-11-01
+Unzen; Population = 48701; Area = 206.92; Founded = 2005-10-11
+Uonuma; Population = 42334; Area = 946.93; Founded = 2004-11-01
+Uozu; Population = 45945; Area = 200.63; Founded = 1952-04-01
+Urasoe; Population = 108052; Area = 19.09; Founded = 1970-07-01
+Urayasu; Population = 159312; Area = 17.29; Founded = 1981-04-01
+Ureshino; Population = 29644; Area = 126.51; Founded = 2006-01-01
+Uruma; Population = 114087; Area = 86.03; Founded = 2005-04-01
+Usa; Population = 59971; Area = 439.12; Founded = 1967-04-01
+Ushiku; Population = 79254; Area = 58.88; Founded = 1986-06-01
+Usuki; Population = 42464; Area = 291.07; Founded = 1950-04-01
+Utashinai; Population = 4259; Area = 55.99; Founded = 1958-07-01
+Uto; Population = 37897; Area = 74.19; Founded = 1958-10-01
+Utsunomiya; Population = 507833; Area = 416.84; Founded = 1896-04-01
+Uwajima; Population = 86819; Area = 469.52; Founded = 2005-08-01
+Wajima; Population = 31532; Area = 426.25; Founded = 2006-02-01
+Wakayama; Population = 372175; Area = 209.23; Founded = 1889-04-01
+Wakkanai; Population = 37911; Area = 760.83; Founded = 1949-04-01
+WakoWako; Population = 78575; Area = 11.04; Founded = 1970-10-31
+Warabi; Population = 70410; Area = 5.1; Founded = 1959-04-01
+Yabu; Population = 27428; Area = 422.78; Founded = 2004-04-01
+Yachimata; Population = 75369; Area = 74.87; Founded = 1992-04-01
+Yachiyo; Population = 184655; Area = 51.27; Founded = 1967-01-01
+Yaita; Population = 35462; Area = 170.66; Founded = 1958-11-01
+Yaizu; Population = 120331; Area = 46.01; Founded = 1951-03-01
+Yamaga; Population = 56741; Area = 299.67; Founded = 1954-04-01
+Yamagata, Gifu; Population = 29857; Area = 222.04; Founded = 2003-04-01
+Yamagata, Yamagata; Population = 255370; Area = 381.34; Founded = 1889-04-01
+Yamaguchi; Population = 192008; Area = 730.23; Founded = 2005-10-01
+Yamanashi; Population = 38202; Area = 289.87; Founded = 2005-03-22
+Yamato; Population = 223127; Area = 27.06; Founded = 1959-02-01
+YamatokoriyamaYamatokoriyama; Population = 90223; Area = 42.68; Founded = 1954-01-01
+Yamatotakada; Population = 69473; Area = 16.49; Founded = 1948-01-01
+Yame; Population = 42241; Area = 98.66; Founded = 1954-04-01
+Yanagawa; Population = 72798; Area = 76.9; Founded = 1952-04-01
+Yanai; Population = 35438; Area = 139.9; Founded = 2005-02-21
+Yao; Population = 273244; Area = 41.71; Founded = 1948-04-01
+Yashio; Population = 78601; Area = 18.03; Founded = 1972-01-15
+Yasu; Population = 49821; Area = 81.07; Founded = 2004-10-01
+Yasugi; Population = 42997; Area = 420.97; Founded = 1954-04-01
+Yatomi; Population = 43145; Area = 48.92; Founded = 2006-04-01
+Yatsushiro; Population = 134491; Area = 680.59; Founded = 1940-09-01
+Yawata; Population = 73822; Area = 24.37; Founded = 1977-11-01
+Yawatahama; Population = 40010; Area = 132.98; Founded = 2005-03-28
+Yokkaichi; Population = 306584; Area = 205.53; Founded = 1897-08-01
+Yokohama; Population = 3631236; Area = 437.38; Founded = 1889-04-01
+Yokosuka; Population = 421397; Area = 100.68; Founded = 1907-02-15
+Yokote; Population = 101234; Area = 693.6; Founded = 2005-10-01
+Yonago; Population = 149140; Area = 132.21; Founded = 1927-04-01
+Yonezawa; Population = 91704; Area = 548.74; Founded = 1889-04-01
+Yoshikawa; Population = 63050; Area = 31.62; Founded = 1996-04-01
+Yoshinogawa; Population = 44905; Area = 144.19; Founded = 2004-10-01
+YotsukaidoYotsukaido; Population = 85738; Area = 34.7; Founded = 1981-04-01
+YubariYubari; Population = 10471; Area = 763.2; Founded = 1943-04-01
+Yufu; Population = 35298; Area = 319.16; Founded = 2005-10-01
+YukiYuki; Population = 52065; Area = 65.84; Founded = 1954-03-15
+Yukuhashi; Population = 70064; Area = 69.83; Founded = 1954-10-10
+YurihonjoYurihonjo; Population = 87525; Area = 1209.04; Founded = 2005-03-22
+Yuzawa; Population = 53588; Area = 790.72; Founded = 2005-03-22
+Zama; Population = 127582; Area = 17.58; Founded = 1971-11-01
+ZentsujiZentsuji; Population = 35180; Area = 39.88; Founded = 1954-03-31
+Zushi; Population = 58654; Area = 17.34; Founded = 1954-04-15
+名古屋市,愛知県; 人口 = 2283289 ; エリア = 326.45 ; 設立 = 1889-10-01
+豊橋市,愛知県; 人口 = 377045 ; エリア = 261.35 ; 設立 = 01/08/1906
+岡崎市,愛知県; 人口 = 371380 ; エリア = 387.24 ; 設立 = 01/07/1916
+一宮市,愛知県; 人口 = 375939 ; エリア = 113.91 ; 設立 = 01/09/1921
+瀬戸市,愛知県; 人口 = 132311 ; エリア = 111.61 ; 設立 = 01/10/1929
+半田市,愛知県; 人口 = 117927 ; エリア = 47.24 ; 設立 = 01/10/1937
+春日井市,愛知県; 人口 = 300713 ; エリア = 92.71 ; 設立 = 01/06/1943
+豊川市,愛知県; 人口 = 161595 ; エリア = 150.71 ; 設立 = 01/06/1943
+津島市,愛知県; 人口 = 65646 ; エリア = 25.08 ; 設立 = 01/03/1947
+碧南市,愛知県; 人口 = 73024 ; エリア = 35.86 ; 設立 = 05/04/1948
+刈谷市,愛知県; 人口 = 145117 ; エリア = 50.45 ; 設立 = 01/04/1950
+豊田市,愛知県; 人口 = 420286 ; エリア = 918.47 ; 設立 = 01/03/1951
+安城市,愛知県; 人口 = 176046 ; エリア = 86.01 ; 設立 = 05/05/1952
+西尾市,愛知県; 人口 = 106643 ; エリア = 75.78 ; 設立 = 15/12/1953
+蒲郡市,愛知県; 人口 = 82264 ; エリア = 56.81 ; 設立 = 01/04/1954
+犬山市,愛知県; 人口 = 75304 ; エリア = 74.97 ; 設立 = 01/04/1954
+常滑市,愛知県; 人口 = 52837 ; エリア = 55.63 ; 設立 = 01/04/1954
+江南市,愛知県; 人口 = 100064 ; エリア = 30.17 ; 設立 = 01/06/1954
+小牧市,愛知県; 人口 = 149060 ; エリア = 62.82 ; 設立 = 01/01/1955
+稲沢市,愛知県; 人口 = 137475 ; エリア = 79.3 ; 設立 = 01/11/1958
+東海市,愛知県; 人口 = 106708 ; エリア = 43.36 ; 設立 = 01/04/1969
+大府市,愛知県; 人口 = 83097 ; エリア = 33.68 ; 設立 = 01/09/1970
+知多市,愛知県; 人口 = 84782 ; エリア = 45.43 ; 設立 = 01/09/1970
+知立市,愛知県; 人口 = 68216 ; エリア = 16.34 ; 設立 = 01/12/1970
+尾張旭市,愛知県; 人口 = 79197 ; エリア = 21.03 ; 設立 = 01/12/1970
+高浜市,愛知県; 人口 = 43467 ; エリア = 13 ; 設立 = 01/12/1970
+岩倉市,愛知県; 人口 = 48042 ; エリア = 10.49 ; 設立 = 01/12/1971
+豊明市,愛知県; 人口 = 69124 ; エリア = 23.18 ; 設立 = 01/08/1972
+日進市,愛知県; 人口 = 80921 ; エリア = 34.9 ; 設立 = 01/10/1994
+田原市,愛知県; 人口 = 66698 ; エリア = 188.81 ; 設立 = 20/08/2003
+愛西市,愛知県; 人口 = 65481 ; エリア = 66.63 ; 設立 = 01/04/2005
+清須市,愛知県; 人口 = 56635 ; エリア = 13.31 ; 設立 = 07/07/2005
+新城市,愛知県; 人口 = 51326 ; エリア = 499 ; 設立 = 01/10/2005
+北名古屋市,愛知県; 人口 = 80112 ; エリア = 18.37 ; 設立 = 20/03/2006
+弥富市,愛知県; 人口 = 43145 ; エリア = 48.92 ; 設立 = 01/04/2006
+みよし市,愛知県; 人口 = - ; エリア = 32.11 ; 設立 = 04/01/2010
+あま市,愛知県; 人口 = - ; エリア = 27.59 ; 設立 = 22/03/2010
+秋田市,秋田県; 人口 = 329287 ; エリア = 905.67 ; 設立 = 1889-04-01
+大館市,秋田県; 人口 = 80587 ; エリア = 913.7 ; 設立 = 01/04/1951
+鹿角市,秋田県; 人口 = 35543 ; エリア = 707.34 ; 設立 = 01/04/1972
+大仙市,秋田県; 人口 = 91143 ; エリア = 866.67 ; 設立 = 22/03/2005
+潟上市,秋田県; 人口 = 35460 ; エリア = 97.96 ; 設立 = 22/03/2005
+北秋田市,秋田県; 人口 = 38543 ; エリア = 1152.57 ; 設立 = 22/03/2005
+男鹿市,秋田県; 人口 = 34194 ; エリア = 240.8 ; 設立 = 22/03/2005
+由利本荘市,秋田県; 人口 = 87525 ; エリア = 1209.04 ; 設立 = 22/03/2005
+湯沢市,秋田県; 人口 = 53588 ; エリア = 790.72 ; 設立 = 22/03/2005
+仙北市,秋田県; 人口 = 30885 ; エリア = 1093.64 ; 設立 = 20/09/2005
+横手市,秋田県; 人口 = 101234 ; エリア = 693.6 ; 設立 = 01/10/2005
+にかほ市,秋田県; 人口 = 28422 ; エリア = 240.61 ; 設立 = 01/10/2005
+能代市,秋田県; 人口 = 61295 ; エリア = 426.74 ; 設立 = 21/03/2006
+八戸市,青森県; 人口 = 241613 ; エリア = 305.17 ; 設立 = 01/05/1929
+黒石市,青森県; 人口 = 37585 ; エリア = 216.96 ; 設立 = 01/07/1954
+三沢市,青森県; 人口 = 42535 ; エリア = 119.97 ; 設立 = 01/09/1958
+むつ市,青森県; 人口 = 62220 ; エリア = 863.79 ; 設立 = 01/09/1959
+十和田市,青森県; 人口 = 66834 ; エリア = 688.6 ; 設立 = 01/01/2005
+つがる市,青森県; 人口 = 38919 ; エリア = 253.85 ; 設立 = 11/02/2005
+五所川原市,青森県; 人口 = 60788 ; エリア = 404.58 ; 設立 = 28/03/2005
+青森市,青森県; 人口 = 305884 ; エリア = 824.52 ; 設立 = 01/04/2005
+平川市,青森県; 人口 = 34638 ; エリア = 345.81 ; 設立 = 01/01/2006
+弘前市,青森県; 人口 = 185865 ; エリア = 523.6 ; 設立 = 27/02/2006
+千葉市,千葉県; 人口 = 938695 ; エリア = 272.08 ; 設立 = 01/01/1921
+銚子市,千葉県; 人口 = 72348 ; エリア = 83.91 ; 設立 = 11/02/1933
+市川市,千葉県; 人口 = 470149 ; エリア = 57.4 ; 設立 = 03/11/1934
+船橋市,千葉県; 人口 = 586762 ; エリア = 85.64 ; 設立 = 01/04/1937
+館山市,千葉県; 人口 = 49987 ; エリア = 110.21 ; 設立 = 03/11/1939
+木更津市,千葉県; 人口 = 123743 ; エリア = 138.73 ; 設立 = 03/11/1942
+松戸市,千葉県; 人口 = 477603 ; エリア = 61.33 ; 設立 = 01/04/1943
+野田市,千葉県; 人口 = 153422 ; エリア = 103.54 ; 設立 = 03/05/1950
+茂原市,千葉県; 人口 = 93032 ; エリア = 100.01 ; 設立 = 01/04/1952
+成田市,千葉県; 人口 = 124773 ; エリア = 213.84 ; 設立 = 31/03/1954
+佐倉市,千葉県; 人口 = 171472 ; エリア = 103.59 ; 設立 = 31/03/1954
+東金市,千葉県; 人口 = 61591 ; エリア = 89.34 ; 設立 = 01/04/1954
+習志野市,千葉県; 人口 = 159758 ; エリア = 20.99 ; 設立 = 01/08/1954
+柏市,千葉県; 人口 = 389036 ; エリア = 114.9 ; 設立 = 01/09/1954
+勝浦市,千葉県; 人口 = 21413 ; エリア = 94.2 ; 設立 = 01/10/1958
+市原市,千葉県; 人口 = 279591 ; エリア = 368.2 ; 設立 = 01/05/1963
+流山市,千葉県; 人口 = 156686 ; エリア = 35.28 ; 設立 = 01/01/1967
+八千代市,千葉県; 人口 = 184655 ; エリア = 51.27 ; 設立 = 01/01/1967
+我孫子市,千葉県; 人口 = 133533 ; エリア = 43.19 ; 設立 = 01/07/1970
+鎌ヶ谷市,千葉県; 人口 = 104564 ; エリア = 21.11 ; 設立 = 01/09/1971
+君津市,千葉県; 人口 = 89350 ; エリア = 318.83 ; 設立 = 01/09/1971
+富津市,千葉県; 人口 = 48973 ; エリア = 205.35 ; 設立 = 01/09/1971
+浦安市,千葉県; 人口 = 159312 ; エリア = 17.29 ; 設立 = 01/04/1981
+四街道市,千葉県; 人口 = 85738 ; エリア = 34.7 ; 設立 = 01/04/1981
+袖ヶ浦市,千葉県; 人口 = 59443 ; エリア = 94.92 ; 設立 = 01/04/1991
+八街市,千葉県; 人口 = 75369 ; エリア = 74.87 ; 設立 = 01/04/1992
+印西市,千葉県; 人口 = 60280 ; エリア = 53.51 ; 設立 = 01/04/1996
+白井市,千葉県; 人口 = 57151 ; エリア = 35.41 ; 設立 = 01/04/2001
+富里市,千葉県; 人口 = 51590 ; エリア = 53.91 ; 設立 = 01/04/2002
+鴨川市,千葉県; 人口 = 35792 ; エリア = 191.3 ; 設立 = 11/02/2005
+旭市,千葉県; 人口 = 69971 ; エリア = 129.91 ; 設立 = 01/07/2005
+いすみ市,千葉県; 人口 = 41605 ; エリア = 157.5 ; 設立 = 05/12/2005
+匝瑳市,千葉県; 人口 = 41361 ; エリア = 101.78 ; 設立 = 23/01/2006
+南房総市,千葉県; 人口 = 43553 ; エリア = 230.22 ; 設立 = 20/03/2006
+香取市,千葉県; 人口 = 85193 ; エリア = 262.31 ; 設立 = 27/03/2006
+山武市,千葉県; 人口 = 57806 ; エリア = 146.38 ; 設立 = 27/03/2006
+松山市,愛媛県; 人口 = 515068 ; エリア = 429.03 ; 設立 = 1889-12-15
+新居浜市,愛媛県; 人口 = 123329 ; エリア = 234.3 ; 設立 = 03/11/1937
+四国中央市,愛媛県; 人口 = 91688 ; エリア = 420.1 ; 設立 = 01/04/2004
+西予市,愛媛県; 人口 = 43476 ; エリア = 514.79 ; 設立 = 01/04/2004
+東温市,愛媛県; 人口 = 35517 ; エリア = 211.45 ; 設立 = 21/09/2004
+西条市,愛媛県; 人口 = 112543 ; エリア = 509.05 ; 設立 = 01/11/2004
+大洲市,愛媛県; 人口 = 49543 ; エリア = 432.2 ; 設立 = 11/01/2005
+今治市,愛媛県; 人口 = 170986 ; エリア = 419.85 ; 設立 = 16/01/2005
+八幡浜市,愛媛県; 人口 = 40010 ; エリア = 132.98 ; 設立 = 28/03/2005
+伊予市,愛媛県; 人口 = 38890 ; エリア = 194.47 ; 設立 = 01/04/2005
+宇和島市,愛媛県; 人口 = 86819 ; エリア = 469.52 ; 設立 = 01/08/2005
+福井市,福井県; 人口 = 268574 ; エリア = 536.17 ; 設立 = 1889-04-01
+敦賀市,福井県; 人口 = 68188 ; エリア = 250.75 ; 設立 = 01/04/1937
+小浜市,福井県; 人口 = 31486 ; エリア = 232.86 ; 設立 = 30/03/1951
+大野市,福井県; 人口 = 36763 ; エリア = 872.3 ; 設立 = 01/07/1954
+勝山市,福井県; 人口 = 26333 ; エリア = 253.68 ; 設立 = 01/09/1954
+鯖江市,福井県; 人口 = 67430 ; エリア = 84.75 ; 設立 = 15/01/1955
+あわら市,福井県; 人口 = 30765 ; エリア = 116.99 ; 設立 = 01/03/2004
+越前市,福井県; 人口 = 87116 ; エリア = 230.75 ; 設立 = 01/10/2005
+坂井市,福井県; 人口 = 92420 ; エリア = 209.91 ; 設立 = 20/03/2006
+福岡市,福岡県; 人口 = 1430371 ; エリア = 340.96 ; 設立 = 1889-04-01
+久留米市,福岡県; 人口 = 305147 ; エリア = 229.84 ; 設立 = 1889-04-01
+大牟田市,福岡県; 人口 = 127474 ; エリア = 81.55 ; 設立 = 01/03/1917
+直方市,福岡県; 人口 = 57319 ; エリア = 61.78 ; 設立 = 01/01/1931
+田川市,福岡県; 人口 = 50484 ; エリア = 54.52 ; 設立 = 03/11/1943
+柳川市,福岡県; 人口 = 72798 ; エリア = 76.9 ; 設立 = 01/04/1952
+八女市,福岡県; 人口 = 42241 ; エリア = 98.66 ; 設立 = 01/04/1954
+筑後市,福岡県; 人口 = 48281 ; エリア = 41.85 ; 設立 = 01/04/1954
+大川市,福岡県; 人口 = 38266 ; エリア = 33.61 ; 設立 = 01/04/1954
+行橋市,福岡県; 人口 = 70064 ; エリア = 69.83 ; 設立 = 10/10/1954
+豊前市,福岡県; 人口 = 27578 ; エリア = 111.17 ; 設立 = 10/04/1955
+中間市,福岡県; 人口 = 45549 ; エリア = 15.98 ; 設立 = 01/11/1958
+北九州市,福岡県; 人口 = 986998 ; エリア = 487.71 ; 設立 = 10/02/1963
+小郡市,福岡県; 人口 = 58460 ; エリア = 45.5 ; 設立 = 01/04/1972
+筑紫野市,福岡県; 人口 = 98914 ; エリア = 87.78 ; 設立 = 01/04/1972
+春日市,福岡県; 人口 = 107845 ; エリア = 14.15 ; 設立 = 01/04/1972
+大野城市,福岡県; 人口 = 94037 ; エリア = 26.88 ; 設立 = 01/04/1972
+宗像市,福岡県; 人口 = 94877 ; エリア = 119.66 ; 設立 = 01/04/1981
+太宰府市,福岡県; 人口 = 68561 ; エリア = 29.58 ; 設立 = 01/04/1982
+古賀市,福岡県; 人口 = 57084 ; エリア = 42.11 ; 設立 = 01/10/1997
+福津市,福岡県; 人口 = 55123 ; エリア = 52.7 ; 設立 = 24/01/2005
+うきは市,福岡県; 人口 = 32277 ; エリア = 117.55 ; 設立 = 20/03/2005
+宮若市,福岡県; 人口 = 30793 ; エリア = 139.99 ; 設立 = 11/02/2006
+朝倉市,福岡県; 人口 = 57881 ; エリア = 246.73 ; 設立 = 20/03/2006
+飯塚市,福岡県; 人口 = 132208 ; エリア = 214.13 ; 設立 = 26/03/2006
+嘉麻市,福岡県; 人口 = 44431 ; エリア = 135.18 ; 設立 = 27/03/2006
+みやま市,福岡県; 人口 = 42219 ; エリア = 105.12 ; 設立 = 29/01/2007
+糸島市,福岡県; 人口 = - ; エリア = 216.12 ; 設立 = 01/01/2010
+会津若松市,福島県; 人口 = 129388 ; エリア = 383.03 ; 設立 = 1899-04-01
+福島市,福島県; 人口 = 289355 ; エリア = 746.43 ; 設立 = 01/04/1907
+郡山市,福島県; 人口 = 339395 ; エリア = 757.06 ; 設立 = 01/09/1924
+須賀川市,福島県; 人口 = 80336 ; エリア = 279.55 ; 設立 = 31/03/1954
+相馬市,福島県; 人口 = 38543 ; エリア = 197.67 ; 設立 = 31/03/1954
+いわき市,福島県; 人口 = 349947 ; エリア = 1231.34 ; 設立 = 01/10/1966
+田村市,福島県; 人口 = 42221 ; エリア = 458.3 ; 設立 = 01/03/2005
+白河市,福島県; 人口 = 65665 ; エリア = 305.3 ; 設立 = 07/11/2005
+二本松市,福島県; 人口 = 61698 ; エリア = 344.65 ; 設立 = 01/12/2005
+南相馬市,福島県; 人口 = 71761 ; エリア = 398.5 ; 設立 = 01/01/2006
+伊達市,福島県; 人口 = 67487 ; エリア = 265.1 ; 設立 = 01/01/2006
+喜多方市,福島県; 人口 = 54684 ; エリア = 554.67 ; 設立 = 04/01/2006
+本宮市,福島県; 人口 = 31737 ; エリア = 87.94 ; 設立 = 01/01/2007
+岐阜市,岐阜県; 人口 = 412779 ; エリア = 202.89 ; 設立 = 1889-07-01
+大垣市,岐阜県; 人口 = 163047 ; エリア = 206.52 ; 設立 = 01/04/1918
+高山市,岐阜県; 人口 = 94879 ; エリア = 2177.67 ; 設立 = 01/11/1936
+多治見市,岐阜県; 人口 = 114866 ; エリア = 91.24 ; 設立 = 01/08/1940
+関市,岐阜県; 人口 = 92896 ; エリア = 472.84 ; 設立 = 15/10/1950
+中津川市,岐阜県; 人口 = 83116 ; エリア = 676.38 ; 設立 = 01/04/1952
+美濃市,岐阜県; 人口 = 22912 ; エリア = 117.05 ; 設立 = 01/04/1954
+瑞浪市,岐阜県; 人口 = 41556 ; エリア = 175 ; 設立 = 01/04/1954
+羽島市,岐阜県; 人口 = 67167 ; エリア = 53.64 ; 設立 = 01/04/1954
+美濃加茂市,岐阜県; 人口 = 53988 ; エリア = 74.81 ; 設立 = 01/04/1954
+土岐市,岐阜県; 人口 = 61393 ; エリア = 116.01 ; 設立 = 01/02/1955
+各務原市,岐阜県; 人口 = 145126 ; エリア = 87.77 ; 設立 = 01/04/1963
+可児市,岐阜県; 人口 = 99318 ; エリア = 87.6 ; 設立 = 01/04/1982
+山県市,岐阜県; 人口 = 29857 ; エリア = 222.04 ; 設立 = 01/04/2003
+瑞穂市,岐阜県; 人口 = 51230 ; エリア = 28.18 ; 設立 = 01/05/2003
+飛騨市,岐阜県; 人口 = 28112 ; エリア = 792.31 ; 設立 = 01/02/2004
+本巣市,岐阜県; 人口 = 34729 ; エリア = 374.57 ; 設立 = 01/02/2004
+郡上市,岐阜県; 人口 = 46338 ; エリア = 1030.79 ; 設立 = 01/03/2004
+下呂市,岐阜県; 人口 = 37455 ; エリア = 851.06 ; 設立 = 01/03/2004
+恵那市,岐阜県; 人口 = 54844 ; エリア = 504.19 ; 設立 = 25/10/2004
+海津市,岐阜県; 人口 = 38532 ; エリア = 112.31 ; 設立 = 28/03/2005
+前橋市,群馬県; 人口 = 318058 ; エリア = 241.22 ; 設立 = 1892-04-01
+高崎市,群馬県; 人口 = 341838 ; エリア = 401.01 ; 設立 = 01/04/1900
+桐生市,群馬県; 人口 = 124892 ; エリア = 274.57 ; 設立 = 01/03/1921
+伊勢崎市,群馬県; 人口 = 204240 ; エリア = 139.33 ; 設立 = 13/09/1940
+太田市,群馬県; 人口 = 214049 ; エリア = 176.49 ; 設立 = 03/05/1948
+沼田市,群馬県; 人口 = 52319 ; エリア = 443.37 ; 設立 = 01/04/1954
+館林市,群馬県; 人口 = 79023 ; エリア = 60.98 ; 設立 = 01/04/1954
+藤岡市,群馬県; 人口 = 68710 ; エリア = 180.09 ; 設立 = 01/04/1954
+渋川市,群馬県; 人口 = 86134 ; エリア = 240.42 ; 設立 = 20/02/2006
+安中市,群馬県; 人口 = 62270 ; エリア = 276.34 ; 設立 = 18/03/2006
+富岡市,群馬県; 人口 = 53332 ; エリア = 122.9 ; 設立 = 27/03/2006
+みどり市,群馬県; 人口 = 51964 ; エリア = 208.23 ; 設立 = 27/03/2006
+広島市,広島県; 人口 = 1163806 ; エリア = 905.13 ; 設立 = 1889-04-01
+尾道市,広島県; 人口 = 148085 ; エリア = 284.85 ; 設立 = 1898-04-01
+呉市,広島県; 人口 = 246118 ; エリア = 353.74 ; 設立 = 01/10/1902
+福山市,広島県; 人口 = 461368 ; エリア = 518.07 ; 設立 = 01/07/1916
+三原市,広島県; 人口 = 103209 ; エリア = 471.03 ; 設立 = 15/11/1936
+府中市,広島県; 人口 = 44212 ; エリア = 195.71 ; 設立 = 31/03/1954
+三次市,広島県; 人口 = 58264 ; エリア = 778.19 ; 設立 = 31/03/1954
+庄原市,広島県; 人口 = 41747 ; エリア = 1246.6 ; 設立 = 31/03/1954
+大竹市,広島県; 人口 = 29665 ; エリア = 78.55 ; 設立 = 01/09/1954
+竹原市,広島県; 人口 = 29803 ; エリア = 118.3 ; 設立 = 03/11/1958
+東広島市,広島県; 人口 = 187711 ; エリア = 635.32 ; 設立 = 20/04/1974
+廿日市市,広島県; 人口 = 115184 ; エリア = 489.36 ; 設立 = 01/04/1988
+安芸高田市,広島県; 人口 = 32323 ; エリア = 537.79 ; 設立 = 01/03/2004
+江田島市,広島県; 人口 = 28601 ; エリア = 100.97 ; 設立 = 01/11/2004
+札幌市,北海道; 人口 = 1918096 ; エリア = 1710 ; 設立 = 01/08/1922
+函館市,北海道; 人口 = 277056 ; エリア = 677.89 ; 設立 = 01/08/1922
+小樽市,北海道; 人口 = 130255 ; エリア = 243.3 ; 設立 = 01/08/1922
+旭川市,北海道; 人口 = 350511 ; エリア = 747.6 ; 設立 = 01/08/1922
+室蘭市,北海道; 人口 = 93078 ; エリア = 80.65 ; 設立 = 01/08/1922
+帯広市,北海道; 人口 = 168188 ; エリア = 618.94 ; 設立 = 01/04/1933
+夕張市,北海道; 人口 = 10471 ; エリア = 763.2 ; 設立 = 01/04/1943
+岩見沢市,北海道; 人口 = 89023 ; エリア = 481.1 ; 設立 = 01/04/1943
+網走市,北海道; 人口 = 38548 ; エリア = 471 ; 設立 = 11/02/1947
+留萌市,北海道; 人口 = 24036 ; エリア = 297.44 ; 設立 = 01/10/1947
+苫小牧市,北海道; 人口 = 173761 ; エリア = 561.49 ; 設立 = 01/04/1948
+稚内市,北海道; 人口 = 37911 ; エリア = 760.83 ; 設立 = 01/04/1949
+美唄市,北海道; 人口 = 25312 ; エリア = 277.61 ; 設立 = 01/04/1950
+芦別市,北海道; 人口 = 16465 ; エリア = 865.02 ; 設立 = 01/04/1953
+江別市,北海道; 人口 = 120940 ; エリア = 187.57 ; 設立 = 01/07/1954
+赤平市,北海道; 人口 = 12234 ; エリア = 129.88 ; 設立 = 01/07/1954
+紋別市,北海道; 人口 = 24293 ; エリア = 830.7 ; 設立 = 01/07/1954
+三笠市,北海道; 人口 = 10070 ; エリア = 302.64 ; 設立 = 01/04/1957
+根室市,北海道; 人口 = 28923 ; エリア = 512.63 ; 設立 = 01/08/1957
+千歳市,北海道; 人口 = 94124 ; エリア = 594.95 ; 設立 = 01/07/1958
+滝川市,北海道; 人口 = 42815 ; エリア = 115.82 ; 設立 = 01/07/1958
+砂川市,北海道; 人口 = 18740 ; エリア = 78.69 ; 設立 = 01/07/1958
+歌志内市,北海道; 人口 = 4259 ; エリア = 55.99 ; 設立 = 01/07/1958
+深川市,北海道; 人口 = 23215 ; エリア = 529.23 ; 設立 = 01/05/1963
+富良野市,北海道; 人口 = 23890 ; エリア = 600.97 ; 設立 = 01/05/1966
+登別市,北海道; 人口 = 51474 ; エリア = 212.11 ; 設立 = 01/08/1970
+恵庭市,北海道; 人口 = 68754 ; エリア = 294.87 ; 設立 = 01/11/1970
+伊達市,北海道; 人口 = 36461 ; エリア = 444.28 ; 設立 = 01/04/1972
+北広島市,北海道; 人口 = 60291 ; エリア = 118.54 ; 設立 = 01/09/1996
+石狩市,北海道; 人口 = 60616 ; エリア = 721.86 ; 設立 = 01/09/1996
+士別市,北海道; 人口 = 21640 ; エリア = 1119.29 ; 設立 = 01/09/2005
+釧路市,北海道; 人口 = 182263 ; エリア = 1362.75 ; 設立 = 11/10/2005
+北斗市,北海道; 人口 = 48779 ; エリア = 397.3 ; 設立 = 01/02/2006
+北見市,北海道; 人口 = 124291 ; エリア = 1427.56 ; 設立 = 05/03/2006
+名寄市,北海道; 人口 = 29869 ; エリア = 535.23 ; 設立 = 27/03/2006
+神戸市,兵庫県; 人口 = 1530847 ; エリア = 552.23 ; 設立 = 1889-04-01
+姫路市,兵庫県; 人口 = 536170 ; エリア = 534.27 ; 設立 = 1889-04-01
+尼崎市,兵庫県; 人口 = 461202 ; エリア = 49.77 ; 設立 = 01/04/1916
+明石市,兵庫県; 人口 = 292162 ; エリア = 49.24 ; 設立 = 01/11/1919
+西宮市,兵庫県; 人口 = 477056 ; エリア = 99.96 ; 設立 = 01/04/1925
+芦屋市,兵庫県; 人口 = 92828 ; エリア = 18.47 ; 設立 = 10/11/1940
+伊丹市,兵庫県; 人口 = 194488 ; エリア = 24.97 ; 設立 = 10/11/1940
+相生市,兵庫県; 人口 = 31973 ; エリア = 90.45 ; 設立 = 01/10/1942
+豊岡市,兵庫県; 人口 = 87555 ; エリア = 697.66 ; 設立 = 01/04/1950
+加古川市,兵庫県; 人口 = 267631 ; エリア = 138.51 ; 設立 = 15/06/1950
+赤穂市,兵庫県; 人口 = 51277 ; エリア = 126.88 ; 設立 = 01/09/1951
+宝塚市,兵庫県; 人口 = 222071 ; エリア = 101.8 ; 設立 = 01/04/1954
+三木市,兵庫県; 人口 = 83244 ; エリア = 176.58 ; 設立 = 01/06/1954
+高砂市,兵庫県; 人口 = 94198 ; エリア = 34.4 ; 設立 = 01/07/1954
+川西市,兵庫県; 人口 = 157461 ; エリア = 53.44 ; 設立 = 01/08/1954
+小野市,兵庫県; 人口 = 49664 ; エリア = 92.92 ; 設立 = 01/12/1954
+三田市,兵庫県; 人口 = 113600 ; エリア = 210.22 ; 設立 = 01/07/1958
+加西市,兵庫県; 人口 = 48435 ; エリア = 150.95 ; 設立 = 01/04/1967
+篠山市,兵庫県; 人口 = 44345 ; エリア = 377.61 ; 設立 = 01/04/1999
+養父市,兵庫県; 人口 = 27428 ; エリア = 422.78 ; 設立 = 01/04/2004
+丹波市,兵庫県; 人口 = 69233 ; エリア = 493.28 ; 設立 = 01/11/2004
+南あわじ市,兵庫県; 人口 = 51069 ; エリア = 229.18 ; 設立 = 11/01/2005
+朝来市,兵庫県; 人口 = 34084 ; エリア = 402.98 ; 設立 = 01/04/2005
+淡路市,兵庫県; 人口 = 47849 ; エリア = 184.21 ; 設立 = 01/04/2005
+宍粟市,兵庫県; 人口 = 42302 ; エリア = 658.6 ; 設立 = 01/04/2005
+西脇市,兵庫県; 人口 = 43126 ; エリア = 132.47 ; 設立 = 01/10/2005
+たつの市,兵庫県; 人口 = 80988 ; エリア = 210.93 ; 設立 = 01/10/2005
+洲本市,兵庫県; 人口 = 48631 ; エリア = 182.47 ; 設立 = 11/02/2006
+加東市,兵庫県; 人口 = 39935 ; エリア = 157.49 ; 設立 = 20/03/2006
+水戸市,茨城県; 人口 = 264062 ; エリア = 217.43 ; 設立 = 1889-04-01
+日立市,茨城県; 人口 = 195844 ; エリア = 225.55 ; 設立 = 01/09/1939
+土浦市,茨城県; 人口 = 143986 ; エリア = 113.82 ; 設立 = 03/11/1940
+結城市,茨城県; 人口 = 52065 ; エリア = 65.84 ; 設立 = 15/03/1954
+龍ヶ崎市,茨城県; 人口 = 79295 ; エリア = 78.2 ; 設立 = 20/03/1954
+下妻市,茨城県; 人口 = 45918 ; エリア = 80.88 ; 設立 = 01/06/1954
+常総市,茨城県; 人口 = 65858 ; エリア = 123.52 ; 設立 = 10/07/1954
+常陸太田市,茨城県; 人口 = 58461 ; エリア = 372.01 ; 設立 = 15/07/1954
+高萩市,茨城県; 人口 = 32031 ; エリア = 193.65 ; 設立 = 23/11/1954
+北茨城市,茨城県; 人口 = 48437 ; エリア = 186.55 ; 設立 = 31/03/1956
+取手市,茨城県; 人口 = 109953 ; エリア = 69.96 ; 設立 = 01/10/1970
+牛久市,茨城県; 人口 = 79254 ; エリア = 58.88 ; 設立 = 01/06/1986
+つくば市,茨城県; 人口 = 207314 ; エリア = 284.07 ; 設立 = 30/11/1987
+ひたちなか市,茨城県; 人口 = 155338 ; エリア = 99.04 ; 設立 = 01/11/1994
+鹿嶋市,茨城県; 人口 = 65193 ; エリア = 92.96 ; 設立 = 01/09/1995
+潮来市,茨城県; 人口 = 31103 ; エリア = 62.67 ; 設立 = 01/04/2001
+守谷市,茨城県; 人口 = 57793 ; エリア = 35.63 ; 設立 = 02/02/2002
+常陸大宮市,茨城県; 人口 = 46729 ; エリア = 348.38 ; 設立 = 16/10/2004
+那珂市,茨城県; 人口 = 54618 ; エリア = 97.8 ; 設立 = 21/01/2005
+坂東市,茨城県; 人口 = 57128 ; エリア = 123.18 ; 設立 = 22/03/2005
+稲敷市,茨城県; 人口 = 48125 ; エリア = 178.12 ; 設立 = 22/03/2005
+筑西市,茨城県; 人口 = 110813 ; エリア = 205.35 ; 設立 = 28/03/2005
+かすみがうら市,茨城県; 人口 = 44450 ; エリア = 118.77 ; 設立 = 28/03/2005
+神栖市,茨城県; 人口 = 93538 ; エリア = 147.24 ; 設立 = 01/08/2005
+行方市,茨城県; 人口 = 39117 ; エリア = 166.33 ; 設立 = 02/09/2005
+古河市,茨城県; 人口 = 144392 ; エリア = 123.58 ; 設立 = 12/09/2005
+石岡市,茨城県; 人口 = 80502 ; エリア = 213.38 ; 設立 = 01/10/2005
+桜川市,茨城県; 人口 = 47480 ; エリア = 179.78 ; 設立 = 01/10/2005
+鉾田市,茨城県; 人口 = 50869 ; エリア = 203.9 ; 設立 = 11/10/2005
+笠間市,茨城県; 人口 = 80646 ; エリア = 240.27 ; 設立 = 19/03/2006
+つくばみらい市,茨城県; 人口 = 41957 ; エリア = 79.14 ; 設立 = 27/03/2006
+小美玉市,茨城県; 人口 = 52834 ; エリア = 140.21 ; 設立 = 27/03/2006
+金沢市,石川県; 人口 = 455595 ; エリア = 467.77 ; 設立 = 1889-04-01
+野々市市,石川県; 人口 = 51976 ; エリア = 13.56 ; 設立 = 11/11/2011
+七尾市,石川県; 人口 = 60140 ; エリア = 317.96 ; 設立 = 20/07/1939
+小松市,石川県; 人口 = 109285 ; エリア = 371.13 ; 設立 = 01/12/1940
+珠洲市,石川県; 人口 = 17111 ; エリア = 247.2 ; 設立 = 15/07/1954
+羽咋市,石川県; 人口 = 23963 ; エリア = 81.96 ; 設立 = 01/07/1958
+かほく市,石川県; 人口 = 34747 ; エリア = 64.76 ; 設立 = 01/03/2004
+白山市,石川県; 人口 = 110563 ; エリア = 755.17 ; 設立 = 01/02/2005
+能美市,石川県; 人口 = 48106 ; エリア = 83.85 ; 設立 = 01/02/2005
+加賀市,石川県; 人口 = 73745 ; エリア = 306 ; 設立 = 01/10/2005
+輪島市,石川県; 人口 = 31532 ; エリア = 426.25 ; 設立 = 01/02/2006
+盛岡市,岩手県; 人口 = 299746 ; エリア = 886.47 ; 設立 = 1889-04-01
+釜石市,岩手県; 人口 = 41348 ; エリア = 441.42 ; 設立 = 05/05/1937
+大船渡市,岩手県; 人口 = 42119 ; エリア = 323.28 ; 設立 = 01/04/1952
+陸前高田市,岩手県; 人口 = 23961 ; エリア = 232.29 ; 設立 = 01/01/1955
+北上市,岩手県; 人口 = 94806 ; エリア = 437.55 ; 設立 = 01/04/1991
+宮古市,岩手県; 人口 = 58342 ; エリア = 696.82 ; 設立 = 06/06/2005
+八幡平市,岩手県; 人口 = 29993 ; エリア = 862.25 ; 設立 = 01/09/2005
+一関市,岩手県; 人口 = 123155 ; エリア = 1133.1 ; 設立 = 20/09/2005
+遠野市,岩手県; 人口 = 30587 ; エリア = 825.62 ; 設立 = 01/10/2005
+花巻市,岩手県; 人口 = 103718 ; エリア = 908.32 ; 設立 = 01/01/2006
+二戸市,岩手県; 人口 = 30685 ; エリア = 420.31 ; 設立 = 01/01/2006
+奥州市,岩手県; 人口 = 128273 ; エリア = 993.35 ; 設立 = 20/02/2006
+久慈市,岩手県; 人口 = 37824 ; エリア = 623.14 ; 設立 = 06/03/2006
+滝沢市,岩手県; 人口 = - ; エリア = 182.32 ; 設立 = 01/01/2014
+高松市,香川県; 人口 = 418557 ; エリア = 375.11 ; 設立 = 1890-02-15
+丸亀市,香川県; 人口 = 110550 ; エリア = 111.79 ; 設立 = 1899-04-01
+坂出市,香川県; 人口 = 56501 ; エリア = 92.46 ; 設立 = 01/07/1942
+善通寺市,香川県; 人口 = 35180 ; エリア = 39.88 ; 設立 = 31/03/1954
+さぬき市,香川県; 人口 = 54832 ; エリア = 158.9 ; 設立 = 01/04/2002
+東かがわ市,香川県; 人口 = 34953 ; エリア = 153.35 ; 設立 = 01/04/2003
+三豊市,香川県; 人口 = 69997 ; エリア = 222.66 ; 設立 = 01/01/2006
+観音寺市,香川県; 人口 = 64020 ; エリア = 117.47 ; 設立 = 12/03/2007
+鹿児島市,鹿児島県; 人口 = 605196 ; エリア = 547.06 ; 設立 = 1889-04-01
+鹿屋市,鹿児島県; 人口 = 105673 ; エリア = 448.33 ; 設立 = 27/05/1941
+枕崎市,鹿児島県; 人口 = 24400 ; エリア = 74.88 ; 設立 = 01/09/1949
+阿久根市,鹿児島県; 人口 = 24166 ; エリア = 134.3 ; 設立 = 01/04/1952
+出水市,鹿児島県; 人口 = 56851 ; エリア = 330.06 ; 設立 = 01/04/1954
+指宿市,鹿児島県; 人口 = 45455 ; エリア = 149.01 ; 設立 = 01/04/1954
+南さつま市,鹿児島県; 人口 = 40386 ; エリア = 283.35 ; 設立 = 15/07/1954
+西之表市,鹿児島県; 人口 = 17666 ; エリア = 205.75 ; 設立 = 01/10/1958
+垂水市,鹿児島県; 人口 = 18078 ; エリア = 162.01 ; 設立 = 01/10/1958
+薩摩川内市,鹿児島県; 人口 = 100730 ; エリア = 683.5 ; 設立 = 12/10/2004
+日置市,鹿児島県; 人口 = 51472 ; エリア = 253.06 ; 設立 = 01/05/2005
+曽於市,鹿児島県; 人口 = 41179 ; エリア = 390.39 ; 設立 = 01/07/2005
+いちき串木野市,鹿児島県; 人口 = 32079 ; エリア = 112.04 ; 設立 = 11/10/2005
+霧島市,鹿児島県; 人口 = 127726 ; エリア = 603.68 ; 設立 = 07/11/2005
+志布志市,鹿児島県; 人口 = 34105 ; エリア = 289.93 ; 設立 = 01/01/2006
+奄美市,鹿児島県; 人口 = 48116 ; エリア = 306.2 ; 設立 = 20/03/2006
+南九州市,鹿児島県; 人口 = 40891 ; エリア = 357.85 ; 設立 = 01/12/2007
+伊佐市,鹿児島県; 人口 = - ; エリア = 392.36 ; 設立 = 01/11/2008
+姶良市,鹿児島県; 人口 = - ; エリア = 231.32 ; 設立 = 23/03/2010
+横浜市,神奈川県; 人口 = 3697894 ; エリア = 437.38 ; 設立 = 1889-04-01
+横須賀市,神奈川県; 人口 = 421397 ; エリア = 100.68 ; 設立 = 15/02/1907
+川崎市,神奈川県; 人口 = 1373630 ; エリア = 142.7 ; 設立 = 01/07/1924
+平塚市,神奈川県; 人口 = 260419 ; エリア = 67.83 ; 設立 = 01/04/1932
+鎌倉市,神奈川県; 人口 = 173588 ; エリア = 39.6 ; 設立 = 03/11/1939
+藤沢市,神奈川県; 人口 = 402628 ; エリア = 69.51 ; 設立 = 01/10/1940
+小田原市,神奈川県; 人口 = 198841 ; エリア = 114.09 ; 設立 = 20/12/1940
+茅ヶ崎市,神奈川県; 人口 = 231005 ; エリア = 35.71 ; 設立 = 01/10/1947
+逗子市,神奈川県; 人口 = 58654 ; エリア = 17.34 ; 設立 = 15/04/1954
+相模原市,神奈川県; 人口 = 706342 ; エリア = 328.84 ; 設立 = 20/11/1954
+三浦市,神奈川県; 人口 = 49371 ; エリア = 32.28 ; 設立 = 01/01/1955
+秦野市,神奈川県; 人口 = 169201 ; エリア = 103.61 ; 設立 = 01/01/1955
+厚木市,神奈川県; 人口 = 225163 ; エリア = 93.83 ; 設立 = 01/02/1955
+大和市,神奈川県; 人口 = 223127 ; エリア = 27.06 ; 設立 = 01/02/1959
+伊勢原市,神奈川県; 人口 = 100779 ; エリア = 55.52 ; 設立 = 01/03/1971
+海老名市,神奈川県; 人口 = 126035 ; エリア = 26.48 ; 設立 = 01/11/1971
+座間市,神奈川県; 人口 = 127582 ; エリア = 17.58 ; 設立 = 01/11/1971
+南足柄市,神奈川県; 人口 = 44285 ; エリア = 76.93 ; 設立 = 01/04/1972
+綾瀬市,神奈川県; 人口 = 82083 ; エリア = 22.28 ; 設立 = 01/11/1978
+高知市,高知県; 人口 = 342944 ; エリア = 309.22 ; 設立 = 1889-04-01
+宿毛市,高知県; 人口 = 23771 ; エリア = 286.11 ; 設立 = 31/03/1954
+安芸市,高知県; 人口 = 20555 ; エリア = 317.34 ; 設立 = 01/08/1954
+土佐清水市,高知県; 人口 = 17421 ; エリア = 266.54 ; 設立 = 01/08/1954
+須崎市,高知県; 人口 = 25679 ; エリア = 135.46 ; 設立 = 01/10/1954
+土佐市,高知県; 人口 = 29726 ; エリア = 91.59 ; 設立 = 01/01/1959
+室戸市,高知県; 人口 = 17683 ; エリア = 248.25 ; 設立 = 01/03/1959
+南国市,高知県; 人口 = 50315 ; エリア = 125.35 ; 設立 = 01/10/1959
+四万十市,高知県; 人口 = 37182 ; エリア = 632.42 ; 設立 = 10/04/2005
+香美市,高知県; 人口 = 29144 ; エリア = 538.22 ; 設立 = 01/03/2006
+香南市,高知県; 人口 = 34084 ; エリア = 126.49 ; 設立 = 01/03/2006
+熊本市,熊本県; 人口 = 670348 ; エリア = 267.23 ; 設立 = 1889-04-01
+八代市,熊本県; 人口 = 134491 ; エリア = 680.59 ; 設立 = 01/09/1940
+人吉市,熊本県; 人口 = 36556 ; エリア = 210.55 ; 設立 = 11/02/1942
+荒尾市,熊本県; 人口 = 55505 ; エリア = 57.15 ; 設立 = 01/04/1942
+水俣市,熊本県; 人口 = 28123 ; エリア = 162.88 ; 設立 = 01/04/1949
+玉名市,熊本県; 人口 = 70747 ; エリア = 152.55 ; 設立 = 01/04/1954
+山鹿市,熊本県; 人口 = 56741 ; エリア = 299.67 ; 設立 = 01/04/1954
+菊池市,熊本県; 人口 = 51471 ; エリア = 276.66 ; 設立 = 01/08/1958
+宇土市,熊本県; 人口 = 37897 ; エリア = 74.19 ; 設立 = 01/10/1958
+上天草市,熊本県; 人口 = 31051 ; エリア = 126.13 ; 設立 = 31/03/2004
+宇城市,熊本県; 人口 = 62718 ; エリア = 188.56 ; 設立 = 15/01/2005
+阿蘇市,熊本県; 人口 = 29149 ; エリア = 376.25 ; 設立 = 11/02/2005
+合志市,熊本県; 人口 = 53490 ; エリア = 53.17 ; 設立 = 27/02/2006
+天草市,熊本県; 人口 = 93047 ; エリア = 683.17 ; 設立 = 27/03/2006
+京都市,京都府; 人口 = 1474570 ; エリア = 827.9 ; 設立 = 1889-04-01
+福知山市,京都府; 人口 = 80836 ; エリア = 552.57 ; 設立 = 01/04/1937
+舞鶴市,京都府; 人口 = 90461 ; エリア = 342.15 ; 設立 = 27/05/1943
+綾部市,京都府; 人口 = 37081 ; エリア = 347.11 ; 設立 = 01/08/1950
+宇治市,京都府; 人口 = 191297 ; エリア = 67.55 ; 設立 = 01/03/1951
+宮津市,京都府; 人口 = 20565 ; エリア = 169.32 ; 設立 = 01/06/1954
+亀岡市,京都府; 人口 = 93641 ; エリア = 224.9 ; 設立 = 01/01/1955
+城陽市,京都府; 人口 = 80795 ; エリア = 32.74 ; 設立 = 03/05/1972
+向日市,京都府; 人口 = 55137 ; エリア = 7.67 ; 設立 = 01/10/1972
+長岡京市,京都府; 人口 = 79031 ; エリア = 19.18 ; 設立 = 01/10/1972
+八幡市,京都府; 人口 = 73822 ; エリア = 24.37 ; 設立 = 01/11/1977
+京田辺市,京都府; 人口 = 65211 ; エリア = 42.94 ; 設立 = 01/04/1997
+京丹後市,京都府; 人口 = 60980 ; エリア = 501.84 ; 設立 = 01/04/2004
+南丹市,京都府; 人口 = 35937 ; エリア = 616.31 ; 設立 = 01/06/2006
+木津川市,京都府; 人口 = 66783 ; エリア = 85.12 ; 設立 = 12/03/2007
+四日市市,三重県; 人口 = 306584 ; エリア = 205.53 ; 設立 = 1897-08-01
+松阪市,三重県; 人口 = 169571 ; エリア = 623.82 ; 設立 = 01/02/1933
+桑名市,三重県; 人口 = 140816 ; エリア = 136.61 ; 設立 = 01/04/1937
+鈴鹿市,三重県; 人口 = 197437 ; エリア = 194.67 ; 設立 = 01/12/1942
+名張市,三重県; 人口 = 81184 ; エリア = 129.76 ; 設立 = 31/03/1954
+尾鷲市,三重県; 人口 = 21272 ; エリア = 193.16 ; 設立 = 20/06/1954
+亀山市,三重県; 人口 = 50304 ; エリア = 190.91 ; 設立 = 01/10/1954
+鳥羽市,三重県; 人口 = 22286 ; エリア = 107.98 ; 設立 = 01/11/1954
+いなべ市,三重県; 人口 = 46676 ; エリア = 219.58 ; 設立 = 01/12/2003
+志摩市,三重県; 人口 = 56758 ; エリア = 179.7 ; 設立 = 01/10/2004
+伊賀市,三重県; 人口 = 99662 ; エリア = 558.17 ; 設立 = 01/11/2004
+伊勢市,三重県; 人口 = 133547 ; エリア = 208.53 ; 設立 = 01/11/2005
+熊野市,三重県; 人口 = 20477 ; エリア = 373.63 ; 設立 = 01/11/2005
+津市,三重県; 人口 = 289215 ; エリア = 710.81 ; 設立 = 01/01/2006
+仙台市,宮城県; 人口 = 1029552 ; エリア = 783.54 ; 設立 = 1889-04-01
+石巻市,宮城県; 人口 = 163840 ; エリア = 555.77 ; 設立 = 01/04/1933
+塩竈市,宮城県; 人口 = 58057 ; エリア = 17.86 ; 設立 = 23/11/1941
+白石市,宮城県; 人口 = 38629 ; エリア = 286.47 ; 設立 = 01/04/1954
+名取市,宮城県; 人口 = 69610 ; エリア = 100.06 ; 設立 = 01/10/1958
+角田市,宮城県; 人口 = 32559 ; エリア = 147.58 ; 設立 = 01/10/1958
+多賀城市,宮城県; 人口 = 63200 ; エリア = 19.65 ; 設立 = 01/11/1971
+岩沼市,宮城県; 人口 = 44595 ; エリア = 60.72 ; 設立 = 01/11/1971
+登米市,宮城県; 人口 = 86940 ; エリア = 536.38 ; 設立 = 01/04/2005
+栗原市,宮城県; 人口 = 77862 ; エリア = 804.93 ; 設立 = 01/04/2005
+東松島市,宮城県; 人口 = 43238 ; エリア = 101.86 ; 設立 = 01/04/2005
+気仙沼市,宮城県; 人口 = 64578 ; エリア = 226.67 ; 設立 = 31/03/2006
+大崎市,宮城県; 人口 = 137164 ; エリア = 796.76 ; 設立 = 31/03/2006
+宮崎市,宮崎県; 人口 = 369473 ; エリア = 596.8 ; 設立 = 01/04/1924
+都城市,宮崎県; 人口 = 169384 ; エリア = 653.31 ; 設立 = 01/04/1924
+延岡市,宮崎県; 人口 = 132480 ; エリア = 867.97 ; 設立 = 11/02/1933
+日南市,宮崎県; 人口 = 43264 ; エリア = 294.46 ; 設立 = 01/01/1950
+小林市,宮崎県; 人口 = 40514 ; エリア = 474.23 ; 設立 = 01/04/1950
+日向市,宮崎県; 人口 = 63066 ; エリア = 336.29 ; 設立 = 01/04/1951
+串間市,宮崎県; 人口 = 21386 ; エリア = 294.96 ; 設立 = 03/11/1954
+西都市,宮崎県; 人口 = 33290 ; エリア = 438.56 ; 設立 = 01/11/1958
+えびの市,宮崎県; 人口 = 22445 ; エリア = 283 ; 設立 = 01/12/1970
+松本市,長野県; 人口 = 227392 ; エリア = 919.35 ; 設立 = 01/05/1907
+岡谷市,長野県; 人口 = 53722 ; エリア = 85.14 ; 設立 = 01/04/1936
+諏訪市,長野県; 人口 = 52671 ; エリア = 109.06 ; 設立 = 10/08/1941
+須坂市,長野県; 人口 = 53097 ; エリア = 149.84 ; 設立 = 01/04/1954
+小諸市,長野県; 人口 = 45333 ; エリア = 98.66 ; 設立 = 01/04/1954
+駒ヶ根市,長野県; 人口 = 34696 ; エリア = 165.92 ; 設立 = 01/07/1954
+大町市,長野県; 人口 = 31276 ; エリア = 564.99 ; 設立 = 01/07/1954
+飯山市,長野県; 人口 = 24155 ; エリア = 202.32 ; 設立 = 01/08/1954
+飯田市,長野県; 人口 = 107129 ; エリア = 658.76 ; 設立 = 30/09/1956
+茅野市,長野県; 人口 = 57363 ; エリア = 266.41 ; 設立 = 01/08/1958
+塩尻市,長野県; 人口 = 67781 ; エリア = 290.13 ; 設立 = 01/04/1959
+長野市,長野県; 人口 = 378204 ; エリア = 730.83 ; 設立 = 16/10/1966
+千曲市,長野県; 人口 = 63305 ; エリア = 119.84 ; 設立 = 01/09/2003
+東御市,長野県; 人口 = 31211 ; エリア = 112.3 ; 設立 = 01/04/2004
+中野市,長野県; 人口 = 46295 ; エリア = 112.06 ; 設立 = 01/04/2005
+佐久市,長野県; 人口 = 100077 ; エリア = 423.99 ; 設立 = 01/04/2005
+安曇野市,長野県; 人口 = 97084 ; エリア = 331.82 ; 設立 = 01/10/2005
+上田市,長野県; 人口 = 161887 ; エリア = 552 ; 設立 = 06/03/2006
+伊那市,長野県; 人口 = 71937 ; エリア = 667.81 ; 設立 = 31/03/2006
+長崎市,長崎県; 人口 = 448792 ; エリア = 406.37 ; 設立 = 1889-04-01
+佐世保市,長崎県; 人口 = 254650 ; エリア = 364 ; 設立 = 01/04/1902
+島原市,長崎県; 人口 = 48953 ; エリア = 82.77 ; 設立 = 01/04/1940
+大村市,長崎県; 人口 = 89650 ; エリア = 126.34 ; 設立 = 11/02/1942
+対馬市,長崎県; 人口 = 36347 ; エリア = 708.81 ; 設立 = 01/03/2004
+壱岐市,長崎県; 人口 = 30352 ; エリア = 138.5 ; 設立 = 01/03/2004
+五島市,長崎県; 人口 = 42447 ; エリア = 420.77 ; 設立 = 01/08/2004
+諫早市,長崎県; 人口 = 142635 ; エリア = 312.24 ; 設立 = 01/03/2005
+西海市,長崎県; 人口 = 32737 ; エリア = 241.95 ; 設立 = 01/04/2005
+平戸市,長崎県; 人口 = 36785 ; エリア = 235.63 ; 設立 = 01/10/2005
+雲仙市,長崎県; 人口 = 48701 ; エリア = 206.92 ; 設立 = 11/10/2005
+松浦市,長崎県; 人口 = 26007 ; エリア = 130.35 ; 設立 = 01/01/2006
+南島原市,長崎県; 人口 = 52347 ; エリア = 169.88 ; 設立 = 31/03/2006
+奈良市,奈良県; 人口 = 367393 ; エリア = 276.84 ; 設立 = 1898-02-01
+大和高田市,奈良県; 人口 = 69473 ; エリア = 16.49 ; 設立 = 01/01/1948
+大和郡山市,奈良県; 人口 = 90223 ; エリア = 42.68 ; 設立 = 01/01/1954
+天理市,奈良県; 人口 = 70702 ; エリア = 86.37 ; 設立 = 01/04/1954
+橿原市,奈良県; 人口 = 124679 ; エリア = 39.52 ; 設立 = 11/02/1956
+桜井市,奈良県; 人口 = 60699 ; エリア = 98.92 ; 設立 = 01/09/1956
+五條市,奈良県; 人口 = 36002 ; エリア = 292.05 ; 設立 = 15/10/1957
+御所市,奈良県; 人口 = 31160 ; エリア = 60.58 ; 設立 = 31/03/1958
+生駒市,奈良県; 人口 = 115359 ; エリア = 53.18 ; 設立 = 01/11/1971
+香芝市,奈良県; 人口 = 72967 ; エリア = 24.23 ; 設立 = 01/10/1991
+葛城市,奈良県; 人口 = 35194 ; エリア = 33.73 ; 設立 = 01/10/2004
+宇陀市,奈良県; 人口 = 35895 ; エリア = 247.62 ; 設立 = 01/01/2006
+新潟市,新潟県; 人口 = 813053 ; エリア = 726.1 ; 設立 = 1889-04-01
+長岡市,新潟県; 人口 = 281222 ; エリア = 840.88 ; 設立 = 01/04/1906
+柏崎市,新潟県; 人口 = 93506 ; エリア = 442.7 ; 設立 = 01/07/1940
+新発田市,新潟県; 人口 = 103490 ; エリア = 532.82 ; 設立 = 01/01/1947
+小千谷市,新潟県; 人口 = 39304 ; エリア = 155.12 ; 設立 = 10/03/1954
+加茂市,新潟県; 人口 = 30800 ; エリア = 133.68 ; 設立 = 10/03/1954
+見附市,新潟県; 人口 = 42139 ; エリア = 77.96 ; 設立 = 31/03/1954
+村上市,新潟県; 人口 = 30197 ; エリア = 142.12 ; 設立 = 31/03/1954
+妙高市,新潟県; 人口 = 36837 ; エリア = 445.52 ; 設立 = 01/11/1954
+上越市,新潟県; 人口 = 206175 ; エリア = 973.32 ; 設立 = 29/04/1971
+佐渡市,新潟県; 人口 = 65037 ; エリア = 855.26 ; 設立 = 01/03/2004
+阿賀野市,新潟県; 人口 = 46158 ; エリア = 192.72 ; 設立 = 01/04/2004
+魚沼市,新潟県; 人口 = 42334 ; エリア = 946.93 ; 設立 = 01/11/2004
+南魚沼市,新潟県; 人口 = 62518 ; エリア = 584.82 ; 設立 = 01/11/2004
+糸魚川市,新潟県; 人口 = 48653 ; エリア = 746.24 ; 設立 = 19/03/2005
+十日町市,新潟県; 人口 = 60480 ; エリア = 589.92 ; 設立 = 01/04/2005
+三条市,新潟県; 人口 = 103199 ; エリア = 432.01 ; 設立 = 01/05/2005
+胎内市,新潟県; 人口 = 32165 ; エリア = 265.18 ; 設立 = 01/09/2005
+五泉市,新潟県; 人口 = 55936 ; エリア = 351.87 ; 設立 = 01/01/2006
+燕市,新潟県; 人口 = 82910 ; エリア = 110.88 ; 設立 = 20/03/2006
+大分市,大分県; 人口 = 467267 ; エリア = 501.25 ; 設立 = 01/04/1911
+別府市,大分県; 人口 = 127345 ; エリア = 125.15 ; 設立 = 01/04/1924
+中津市,大分県; 人口 = 84179 ; エリア = 491.09 ; 設立 = 20/04/1929
+日田市,大分県; 人口 = 72601 ; エリア = 666.19 ; 設立 = 11/12/1940
+佐伯市,大分県; 人口 = 78675 ; エリア = 903.44 ; 設立 = 29/04/1941
+臼杵市,大分県; 人口 = 42464 ; エリア = 291.07 ; 設立 = 01/04/1950
+津久見市,大分県; 人口 = 20561 ; エリア = 79.53 ; 設立 = 01/04/1951
+竹田市,大分県; 人口 = 25449 ; エリア = 477.59 ; 設立 = 31/03/1954
+豊後高田市,大分県; 人口 = 24484 ; エリア = 206.64 ; 設立 = 31/05/1954
+宇佐市,大分県; 人口 = 59971 ; エリア = 439.12 ; 設立 = 01/04/1967
+豊後大野市,大分県; 人口 = 40409 ; エリア = 603.36 ; 設立 = 31/03/2005
+杵築市,大分県; 人口 = 33465 ; エリア = 280.01 ; 設立 = 01/10/2005
+由布市,大分県; 人口 = 35298 ; エリア = 319.16 ; 設立 = 01/10/2005
+国東市,大分県; 人口 = 33473 ; エリア = 317.81 ; 設立 = 31/03/2006
+岡山市,岡山県; 人口 = 701293 ; エリア = 789.91 ; 設立 = 1889-06-01
+倉敷市,岡山県; 人口 = 472452 ; エリア = 354.71 ; 設立 = 01/04/1928
+津山市,岡山県; 人口 = 109493 ; エリア = 506.36 ; 設立 = 11/02/1929
+玉野市,岡山県; 人口 = 65723 ; エリア = 103.63 ; 設立 = 03/08/1940
+笠岡市,岡山県; 人口 = 55987 ; エリア = 136.03 ; 設立 = 01/04/1952
+井原市,岡山県; 人口 = 44423 ; エリア = 243.36 ; 設立 = 01/04/1953
+総社市,岡山県; 人口 = 66789 ; エリア = 212 ; 設立 = 31/03/1954
+高梁市,岡山県; 人口 = 37573 ; エリア = 547.01 ; 設立 = 01/05/1954
+新見市,岡山県; 人口 = 35022 ; エリア = 793.27 ; 設立 = 01/06/1954
+備前市,岡山県; 人口 = 39117 ; エリア = 258.23 ; 設立 = 01/04/1971
+瀬戸内市,岡山県; 人口 = 38645 ; エリア = 125.53 ; 設立 = 01/11/2004
+赤磐市,岡山県; 人口 = 43742 ; エリア = 209.43 ; 設立 = 07/03/2005
+真庭市,岡山県; 人口 = 50405 ; エリア = 828.43 ; 設立 = 31/03/2005
+美作市,岡山県; 人口 = 31550 ; エリア = 429.19 ; 設立 = 31/03/2005
+浅口市,岡山県; 人口 = 37108 ; エリア = 66.46 ; 設立 = 21/03/2006
+那覇市,沖縄県; 人口 = 314162 ; エリア = 39.23 ; 設立 = 20/05/1921
+石垣市,沖縄県; 人口 = 46489 ; エリア = 229 ; 設立 = 10/07/1947
+宜野湾市,沖縄県; 人口 = 91233 ; エリア = 19.7 ; 設立 = 01/07/1962
+浦添市,沖縄県; 人口 = 108052 ; エリア = 19.09 ; 設立 = 01/07/1970
+名護市,沖縄県; 人口 = 60598 ; エリア = 210.3 ; 設立 = 01/08/1970
+糸満市,沖縄県; 人口 = 56171 ; エリア = 46.63 ; 設立 = 01/12/1971
+沖縄市,沖縄県; 人口 = 128421 ; エリア = 49 ; 設立 = 01/04/1974
+豊見城市,沖縄県; 人口 = 54586 ; エリア = 19.45 ; 設立 = 01/04/2002
+うるま市,沖縄県; 人口 = 114087 ; エリア = 86.03 ; 設立 = 01/04/2005
+宮古島市,沖縄県; 人口 = 52777 ; エリア = 204.54 ; 設立 = 01/10/2005
+南城市,沖縄県; 人口 = 39458 ; エリア = 49.7 ; 設立 = 01/01/2006
+大阪市,大阪府; 人口 = 2668586 ; エリア = 222.3 ; 設立 = 1889-04-01
+堺市,大阪府; 人口 = 835333 ; エリア = 149.99 ; 設立 = 1889-04-01
+岸和田市,大阪府; 人口 = 200538 ; エリア = 72.24 ; 設立 = 01/11/1922
+豊中市,大阪府; 人口 = 387269 ; エリア = 36.38 ; 設立 = 15/10/1936
+池田市,大阪府; 人口 = 104426 ; エリア = 22.09 ; 設立 = 29/04/1939
+吹田市,大阪府; 人口 = 354600 ; エリア = 36.11 ; 設立 = 01/04/1940
+泉大津市,大阪府; 人口 = 78014 ; エリア = 12.8 ; 設立 = 01/04/1942
+高槻市,大阪府; 人口 = 354228 ; エリア = 105.31 ; 設立 = 01/01/1943
+貝塚市,大阪府; 人口 = 90447 ; エリア = 43.99 ; 設立 = 01/05/1943
+守口市,大阪府; 人口 = 146294 ; エリア = 12.73 ; 設立 = 01/11/1946
+枚方市,大阪府; 人口 = 406201 ; エリア = 65.08 ; 設立 = 01/08/1947
+茨木市,大阪府; 人口 = 272240 ; エリア = 76.52 ; 設立 = 01/01/1948
+八尾市,大阪府; 人口 = 273244 ; エリア = 41.71 ; 設立 = 01/04/1948
+泉佐野市,大阪府; 人口 = 99636 ; エリア = 55.03 ; 設立 = 01/04/1948
+富田林市,大阪府; 人口 = 122205 ; エリア = 39.66 ; 設立 = 01/04/1950
+寝屋川市,大阪府; 人口 = 239029 ; エリア = 24.73 ; 設立 = 03/05/1951
+河内長野市,大阪府; 人口 = 114428 ; エリア = 109.61 ; 設立 = 01/04/1954
+松原市,大阪府; 人口 = 125274 ; エリア = 16.66 ; 設立 = 01/02/1955
+大東市,大阪府; 人口 = 125847 ; エリア = 18.27 ; 設立 = 01/04/1956
+和泉市,大阪府; 人口 = 179352 ; エリア = 84.98 ; 設立 = 01/09/1956
+箕面市,大阪府; 人口 = 127757 ; エリア = 47.84 ; 設立 = 01/12/1956
+柏原市,大阪府; 人口 = 75875 ; エリア = 25.39 ; 設立 = 01/10/1958
+羽曳野市,大阪府; 人口 = 118281 ; エリア = 26.44 ; 設立 = 15/01/1959
+門真市,大阪府; 人口 = 130026 ; エリア = 12.28 ; 設立 = 01/08/1963
+摂津市,大阪府; 人口 = 84330 ; エリア = 14.88 ; 設立 = 01/11/1966
+高石市,大阪府; 人口 = 60077 ; エリア = 11.35 ; 設立 = 01/11/1966
+藤井寺市,大阪府; 人口 = 65892 ; エリア = 8.89 ; 設立 = 01/11/1966
+東大阪市,大阪府; 人口 = 509157 ; エリア = 61.81 ; 設立 = 01/02/1967
+泉南市,大阪府; 人口 = 64916 ; エリア = 48.48 ; 設立 = 01/07/1970
+四条畷市,大阪府; 人口 = 57239 ; エリア = 18.74 ; 設立 = 01/07/1970
+交野市,大阪府; 人口 = 77853 ; エリア = 25.55 ; 設立 = 03/11/1971
+大阪狭山市,大阪府; 人口 = 58661 ; エリア = 11.86 ; 設立 = 01/10/1987
+阪南市,大阪府; 人口 = 56853 ; エリア = 36.1 ; 設立 = 01/10/1991
+鳥栖市,佐賀県; 人口 = 66842 ; エリア = 71.73 ; 設立 = 01/04/1954
+伊万里市,佐賀県; 人口 = 57604 ; エリア = 254.99 ; 設立 = 01/04/1954
+鹿島市,佐賀県; 人口 = 31326 ; エリア = 112.1 ; 設立 = 01/04/1954
+多久市,佐賀県; 人口 = 22165 ; エリア = 96.93 ; 設立 = 01/05/1954
+唐津市,佐賀県; 人口 = 129194 ; エリア = 487.45 ; 設立 = 01/01/2005
+小城市,佐賀県; 人口 = 45516 ; エリア = 95.85 ; 設立 = 01/03/2005
+佐賀市,佐賀県; 人口 = 239932 ; エリア = 431.42 ; 設立 = 01/10/2005
+嬉野市,佐賀県; 人口 = 29644 ; エリア = 126.51 ; 設立 = 01/01/2006
+武雄市,佐賀県; 人口 = 50788 ; エリア = 195.44 ; 設立 = 01/03/2006
+神埼市,佐賀県; 人口 = 33449 ; エリア = 125.01 ; 設立 = 20/03/2006
+川越市,埼玉県; 人口 = 335693 ; エリア = 109.16 ; 設立 = 01/12/1922
+川口市,埼玉県; 人口 = 552883 ; エリア = 61.97 ; 設立 = 01/04/1933
+行田市,埼玉県; 人口 = 87462 ; エリア = 67.37 ; 設立 = 03/05/1949
+秩父市,埼玉県; 人口 = 69139 ; エリア = 577.69 ; 設立 = 01/04/1950
+所沢市,埼玉県; 人口 = 338560 ; エリア = 71.99 ; 設立 = 03/11/1950
+飯能市,埼玉県; 人口 = 84053 ; エリア = 193.16 ; 設立 = 01/01/1954
+加須市,埼玉県; 人口 = 67862 ; エリア = 59.4 ; 設立 = 03/05/1954
+東松山市,埼玉県; 人口 = 90840 ; エリア = 65.33 ; 設立 = 01/07/1954
+狭山市,埼玉県; 人口 = 156634 ; エリア = 49.04 ; 設立 = 01/07/1954
+羽生市,埼玉県; 人口 = 56820 ; エリア = 58.55 ; 設立 = 01/09/1954
+鴻巣市,埼玉県; 人口 = 119768 ; エリア = 67.49 ; 設立 = 30/09/1954
+上尾市,埼玉県; 人口 = 222479 ; エリア = 45.55 ; 設立 = 15/07/1958
+草加市,埼玉県; 人口 = 237964 ; エリア = 27.42 ; 設立 = 01/11/1958
+越谷市,埼玉県; 人口 = 318592 ; エリア = 60.31 ; 設立 = 03/11/1958
+蕨市,埼玉県; 人口 = 70410 ; エリア = 5.1 ; 設立 = 01/04/1959
+戸田市,埼玉県; 人口 = 118591 ; エリア = 18.17 ; 設立 = 01/10/1966
+入間市,埼玉県; 人口 = 148203 ; エリア = 44.74 ; 設立 = 01/11/1966
+朝霞市,埼玉県; 人口 = 126902 ; エリア = 18.38 ; 設立 = 15/03/1967
+志木市,埼玉県; 人口 = 68531 ; エリア = 9.06 ; 設立 = 26/10/1970
+和光市,埼玉県; 人口 = 78575 ; エリア = 11.04 ; 設立 = 31/10/1970
+新座市,埼玉県; 人口 = 155926 ; エリア = 22.8 ; 設立 = 01/11/1970
+桶川市,埼玉県; 人口 = 74703 ; エリア = 25.26 ; 設立 = 03/11/1970
+久喜市,埼玉県; 人口 = 71667 ; エリア = 25.35 ; 設立 = 01/10/1971
+北本市,埼玉県; 人口 = 69903 ; エリア = 19.84 ; 設立 = 03/11/1971
+八潮市,埼玉県; 人口 = 78601 ; エリア = 18.03 ; 設立 = 15/01/1972
+富士見市,埼玉県; 人口 = 105286 ; エリア = 19.7 ; 設立 = 10/04/1972
+三郷市,埼玉県; 人口 = 128956 ; エリア = 30.16 ; 設立 = 03/05/1972
+蓮田市,埼玉県; 人口 = 63375 ; エリア = 27.27 ; 設立 = 01/10/1972
+坂戸市,埼玉県; 人口 = 99680 ; エリア = 40.97 ; 設立 = 01/09/1976
+幸手市,埼玉県; 人口 = 53485 ; エリア = 33.95 ; 設立 = 01/10/1986
+鶴ヶ島市,埼玉県; 人口 = 70131 ; エリア = 17.73 ; 設立 = 01/09/1991
+日高市,埼玉県; 人口 = 55454 ; エリア = 47.5 ; 設立 = 01/10/1991
+吉川市,埼玉県; 人口 = 63050 ; エリア = 31.62 ; 設立 = 01/04/1996
+さいたま市,埼玉県; 人口 = 1192418 ; エリア = 217.49 ; 設立 = 01/05/2001
+熊谷市,埼玉県; 人口 = 204853 ; エリア = 159.88 ; 設立 = 01/10/2005
+春日部市,埼玉県; 人口 = 236854 ; エリア = 65.98 ; 設立 = 01/10/2005
+ふじみ野市,埼玉県; 人口 = 103724 ; エリア = 14.67 ; 設立 = 01/10/2005
+深谷市,埼玉県; 人口 = 146128 ; エリア = 137.58 ; 設立 = 01/01/2006
+本庄市,埼玉県; 人口 = 81805 ; エリア = 89.71 ; 設立 = 10/01/2006
+大津市,滋賀県; 人口 = 329024 ; エリア = 464.1 ; 設立 = 1898-10-01
+彦根市,滋賀県; 人口 = 110945 ; エリア = 196.84 ; 設立 = 11/02/1937
+近江八幡市,滋賀県; 人口 = 69116 ; エリア = 153.09 ; 設立 = 31/03/1954
+草津市,滋賀県; 人口 = 123512 ; エリア = 67.92 ; 設立 = 15/10/1954
+守山市,滋賀県; 人口 = 74263 ; エリア = 54.81 ; 設立 = 01/07/1970
+栗東市,滋賀県; 人口 = 62353 ; エリア = 52.75 ; 設立 = 01/10/2001
+甲賀市,滋賀県; 人口 = 94007 ; エリア = 481.69 ; 設立 = 01/10/2004
+野洲市,滋賀県; 人口 = 49821 ; エリア = 81.07 ; 設立 = 01/10/2004
+湖南市,滋賀県; 人口 = 55144 ; エリア = 70.49 ; 設立 = 01/10/2004
+高島市,滋賀県; 人口 = 52967 ; エリア = 693 ; 設立 = 01/01/2005
+東近江市,滋賀県; 人口 = 117487 ; エリア = 388.58 ; 設立 = 11/02/2005
+米原市,滋賀県; 人口 = 40757 ; エリア = 250.46 ; 設立 = 14/02/2005
+長浜市,滋賀県; 人口 = 83555 ; エリア = 247.01 ; 設立 = 13/02/2006
+松江市,島根県; 人口 = 195875 ; エリア = 530.27 ; 設立 = 1889-04-01
+出雲市,島根県; 人口 = 146115 ; エリア = 543.48 ; 設立 = 03/11/1941
+益田市,島根県; 人口 = 50980 ; エリア = 733.16 ; 設立 = 01/08/1952
+安来市,島根県; 人口 = 42997 ; エリア = 420.97 ; 設立 = 01/04/1954
+江津市,島根県; 人口 = 26958 ; エリア = 268.51 ; 設立 = 01/04/1954
+雲南市,島根県; 人口 = 43269 ; エリア = 553.37 ; 設立 = 01/11/2004
+浜田市,島根県; 人口 = 61325 ; エリア = 689.6 ; 設立 = 01/10/2005
+大田市,島根県; 人口 = 39593 ; エリア = 436.11 ; 設立 = 01/10/2005
+静岡市,静岡県; 人口 = 710944 ; エリア = 1388.78 ; 設立 = 1889-04-01
+浜松市,静岡県; 人口 = 811431 ; エリア = 1511.17 ; 設立 = 01/07/1911
+沼津市,静岡県; 人口 = 206818 ; エリア = 187.11 ; 設立 = 01/07/1923
+熱海市,静岡県; 人口 = 40524 ; エリア = 61.56 ; 設立 = 10/04/1937
+三島市,静岡県; 人口 = 112320 ; エリア = 62.13 ; 設立 = 29/04/1941
+富士宮市,静岡県; 人口 = 122122 ; エリア = 314.81 ; 設立 = 01/06/1942
+伊東市,静岡県; 人口 = 72038 ; エリア = 124.13 ; 設立 = 10/08/1947
+島田市,静岡県; 人口 = 95762 ; エリア = 195.4 ; 設立 = 01/01/1948
+磐田市,静岡県; 人口 = 172583 ; エリア = 164.08 ; 設立 = 01/04/1948
+焼津市,静岡県; 人口 = 120331 ; エリア = 46.01 ; 設立 = 01/03/1951
+掛川市,静岡県; 人口 = 118660 ; エリア = 265.63 ; 設立 = 31/03/1954
+藤枝市,静岡県; 人口 = 129637 ; エリア = 140.74 ; 設立 = 31/03/1954
+御殿場市,静岡県; 人口 = 88078 ; エリア = 194.63 ; 設立 = 11/02/1955
+袋井市,静岡県; 人口 = 85163 ; エリア = 108.56 ; 設立 = 03/11/1958
+富士市,静岡県; 人口 = 237279 ; エリア = 214.1 ; 設立 = 01/11/1966
+下田市,静岡県; 人口 = 25784 ; エリア = 104.7 ; 設立 = 01/01/1971
+裾野市,静岡県; 人口 = 53740 ; エリア = 138.39 ; 設立 = 01/01/1971
+湖西市,静岡県; 人口 = 44545 ; エリア = 55.08 ; 設立 = 01/01/1972
+伊豆市,静岡県; 人口 = 35911 ; エリア = 363.97 ; 設立 = 01/04/2004
+御前崎市,静岡県; 人口 = 35015 ; エリア = 65.85 ; 設立 = 01/04/2004
+菊川市,静岡県; 人口 = 47702 ; エリア = 94.24 ; 設立 = 17/01/2005
+伊豆の国市,静岡県; 人口 = 49711 ; エリア = 94.71 ; 設立 = 01/04/2005
+牧之原市,静岡県; 人口 = 49726 ; エリア = 111.5 ; 設立 = 11/10/2005
+宇都宮市,栃木県; 人口 = 507833 ; エリア = 416.84 ; 設立 = 1896-04-01
+足利市,栃木県; 人口 = 157793 ; エリア = 177.82 ; 設立 = 01/01/1921
+栃木市,栃木県; 人口 = 81601 ; エリア = 122.06 ; 設立 = 01/04/1937
+鹿沼市,栃木県; 人口 = 103690 ; エリア = 490.62 ; 設立 = 10/10/1948
+小山市,栃木県; 人口 = 162283 ; エリア = 171.61 ; 設立 = 31/03/1954
+真岡市,栃木県; 人口 = 66705 ; エリア = 111.76 ; 設立 = 01/10/1954
+大田原市,栃木県; 人口 = 78563 ; エリア = 354.12 ; 設立 = 01/12/1954
+矢板市,栃木県; 人口 = 35462 ; エリア = 170.66 ; 設立 = 01/11/1958
+那須塩原市,栃木県; 人口 = 115633 ; エリア = 592.82 ; 設立 = 01/01/2005
+佐野市,栃木県; 人口 = 123034 ; エリア = 356.07 ; 設立 = 28/02/2005
+さくら市,栃木県; 人口 = 42403 ; エリア = 125.46 ; 設立 = 28/03/2005
+那須烏山市,栃木県; 人口 = 30433 ; エリア = 174.42 ; 設立 = 01/10/2005
+下野市,栃木県; 人口 = 59459 ; エリア = 74.58 ; 設立 = 10/01/2006
+日光市,栃木県; 人口 = 92181 ; エリア = 1449.87 ; 設立 = 20/03/2006
+徳島市,徳島県; 人口 = 266370 ; エリア = 191.39 ; 設立 = 1889-10-01
+鳴門市,徳島県; 人口 = 62453 ; エリア = 135.46 ; 設立 = 15/03/1947
+小松島市,徳島県; 人口 = 41540 ; エリア = 45.24 ; 設立 = 01/06/1951
+阿南市,徳島県; 人口 = 77099 ; エリア = 279.39 ; 設立 = 01/05/1958
+吉野川市,徳島県; 人口 = 44905 ; エリア = 144.19 ; 設立 = 01/10/2004
+美馬市,徳島県; 人口 = 33520 ; エリア = 367.38 ; 設立 = 01/03/2005
+阿波市,徳島県; 人口 = 40303 ; エリア = 190.97 ; 設立 = 01/04/2005
+三好市,徳島県; 人口 = 32329 ; エリア = 721.48 ; 設立 = 01/03/2006
+八王子市,東京都; 人口 = 567367 ; エリア = 186.31 ; 設立 = 01/09/1917
+立川市,東京都; 人口 = 175639 ; エリア = 24.38 ; 設立 = 01/12/1940
+武蔵野市,東京都; 人口 = 138516 ; エリア = 10.73 ; 設立 = 03/11/1947
+三鷹市,東京都; 人口 = 180797 ; エリア = 16.5 ; 設立 = 03/11/1950
+青梅市,東京都; 人口 = 141708 ; エリア = 103.26 ; 設立 = 01/04/1951
+府中市,東京都; 人口 = 248445 ; エリア = 29.34 ; 設立 = 01/04/1954
+昭島市,東京都; 人口 = 111763 ; エリア = 17.33 ; 設立 = 01/05/1954
+調布市,東京都; 人口 = 219053 ; エリア = 21.53 ; 設立 = 01/04/1955
+町田市,東京都; 人口 = 413786 ; エリア = 71.63 ; 設立 = 01/02/1958
+小金井市,東京都; 人口 = 115116 ; エリア = 11.33 ; 設立 = 01/10/1958
+小平市,東京都; 人口 = 185829 ; エリア = 20.46 ; 設立 = 01/10/1962
+日野市,東京都; 人口 = 179482 ; エリア = 27.53 ; 設立 = 03/11/1963
+東村山市,東京都; 人口 = 146585 ; エリア = 17.17 ; 設立 = 01/04/1964
+国分寺市,東京都; 人口 = 118801 ; エリア = 11.48 ; 設立 = 03/11/1964
+国立市,東京都; 人口 = 73362 ; エリア = 8.15 ; 設立 = 01/01/1967
+福生市,東京都; 人口 = 60413 ; エリア = 10.24 ; 設立 = 01/07/1970
+狛江市,東京都; 人口 = 78237 ; エリア = 6.39 ; 設立 = 01/10/1970
+東大和市,東京都; 人口 = 81445 ; エリア = 13.54 ; 設立 = 01/10/1970
+清瀬市,東京都; 人口 = 73518 ; エリア = 10.19 ; 設立 = 01/10/1970
+東久留米市,東京都; 人口 = 115405 ; エリア = 12.92 ; 設立 = 01/10/1970
+武蔵村山市,東京都; 人口 = 68333 ; エリア = 15.37 ; 設立 = 03/11/1970
+多摩市,東京都; 人口 = 149404 ; エリア = 21.08 ; 設立 = 01/11/1971
+稲城市,東京都; 人口 = 80772 ; エリア = 17.97 ; 設立 = 01/11/1971
+羽村市,東京都; 人口 = 56984 ; エリア = 9.91 ; 設立 = 01/11/1991
+あきる野市,東京都; 人口 = 80268 ; エリア = 73.34 ; 設立 = 01/09/1995
+西東京市,東京都; 人口 = 193350 ; エリア = 15.85 ; 設立 = 21/01/2001
+足立区,東京都; 人口 = 629392 ; エリア = 53.2 ; 設立 = 13/03/1947
+荒川区,東京都; 人口 = 194777 ; エリア = 10.2 ; 設立 = 13/03/1947
+文京区,東京都; 人口 = 194933 ; エリア = 11.31 ; 設立 = 13/03/1947
+千代田区,東京都; 人口 = 43802 ; エリア = 11.64 ; 設立 = 13/03/1947
+中央区,東京都; 人口 = 104997 ; エリア = 10.15 ; 設立 = 13/03/1947
+江戸川区,東京都; 人口 = 661386 ; エリア = 49.86 ; 設立 = 13/03/1947
+板橋区,東京都; 人口 = 529059 ; エリア = 32.17 ; 設立 = 13/03/1947
+葛飾区,東京都; 人口 = 428066 ; エリア = 34.84 ; 設立 = 13/03/1947
+北区,東京都; 人口 = 330646 ; エリア = 20.59 ; 設立 = 13/03/1947
+江東区,東京都; 人口 = 436337 ; エリア = 39.8 ; 設立 = 13/03/1947
+目黒区,東京都; 人口 = 267798 ; エリア = 14.7 ; 設立 = 13/03/1947
+港区,東京都; 人口 = 205196 ; エリア = 20.34 ; 設立 = 13/03/1947
+中野区,東京都; 人口 = 312939 ; エリア = 15.59 ; 設立 = 13/03/1947
+練馬区,東京都; 人口 = 702202 ; エリア = 48.16 ; 設立 = 01/08/1947
+大田区,東京都; 人口 = 674590 ; エリア = 59.46 ; 設立 = 13/03/1947
+世田谷区,東京都; 人口 = 855416 ; エリア = 58.08 ; 設立 = 13/03/1947
+渋谷区,東京都; 人口 = 205512 ; エリア = 15.11 ; 設立 = 13/03/1947
+品川区,東京都; 人口 = 353887 ; エリア = 22.72 ; 設立 = 13/03/1947
+新宿区,東京都; 人口 = 309463 ; エリア = 18.23 ; 設立 = 13/03/1947
+杉並区,東京都; 人口 = 534981 ; エリア = 34.02 ; 設立 = 13/03/1947
+墨田区,東京都; 人口 = 237433 ; エリア = 13.75 ; 設立 = 13/03/1947
+台東区,東京都; 人口 = 168277 ; エリア = 10.08 ; 設立 = 13/03/1947
+豊島区,東京都; 人口 = 256009 ; エリア = 13.01 ; 設立 = 13/03/1947
+鳥取市,鳥取県; 人口 = 200315 ; エリア = 765.66 ; 設立 = 1889-10-01
+米子市,鳥取県; 人口 = 149140 ; エリア = 132.21 ; 設立 = 01/04/1927
+倉吉市,鳥取県; 人口 = 51453 ; エリア = 272.15 ; 設立 = 01/10/1953
+境港市,鳥取県; 人口 = 35908 ; エリア = 28.79 ; 設立 = 01/04/1956
+富山市,富山県; 人口 = 421116 ; エリア = 1241.85 ; 設立 = 1889-04-01
+魚津市,富山県; 人口 = 45945 ; エリア = 200.63 ; 設立 = 01/04/1952
+氷見市,富山県; 人口 = 53316 ; エリア = 230.47 ; 設立 = 01/08/1952
+滑川市,富山県; 人口 = 33789 ; エリア = 54.61 ; 設立 = 01/03/1954
+砺波市,富山県; 人口 = 49396 ; エリア = 126.96 ; 設立 = 01/04/1954
+小矢部市,富山県; 人口 = 32656 ; エリア = 134.11 ; 設立 = 01/08/1962
+南砺市,富山県; 人口 = 57061 ; エリア = 668.86 ; 設立 = 01/11/2004
+高岡市,富山県; 人口 = 178965 ; エリア = 209.38 ; 設立 = 01/11/2005
+射水市,富山県; 人口 = 94691 ; エリア = 109.18 ; 設立 = 01/11/2005
+黒部市,富山県; 人口 = 42612 ; エリア = 426.34 ; 設立 = 31/03/2006
+和歌山市,和歌山県; 人口 = 372175 ; エリア = 209.23 ; 設立 = 1889-04-01
+海南市,和歌山県; 人口 = 55877 ; エリア = 101.18 ; 設立 = 01/05/1934
+田辺市,和歌山県; 人口 = 80478 ; エリア = 1026.77 ; 設立 = 20/05/1942
+御坊市,和歌山県; 人口 = 26335 ; エリア = 43.93 ; 設立 = 01/04/1954
+有田市,和歌山県; 人口 = 31194 ; エリア = 36.92 ; 設立 = 01/05/1956
+新宮市,和歌山県; 人口 = 32654 ; エリア = 255.43 ; 設立 = 01/10/2005
+紀の川市,和歌山県; 人口 = 67192 ; エリア = 228.24 ; 設立 = 07/11/2005
+橋本市,和歌山県; 人口 = 67505 ; エリア = 130.31 ; 設立 = 01/03/2006
+岩出市,和歌山県; 人口 = 51843 ; エリア = 38.5 ; 設立 = 01/04/2006
+山形市,山形県; 人口 = 255370 ; エリア = 381.34 ; 設立 = 1889-04-01
+米沢市,山形県; 人口 = 91704 ; エリア = 548.74 ; 設立 = 1889-04-01
+新庄市,山形県; 人口 = 39808 ; エリア = 223.08 ; 設立 = 01/04/1949
+寒河江市,山形県; 人口 = 43299 ; エリア = 139.08 ; 設立 = 01/08/1954
+上山市,山形県; 人口 = 35086 ; エリア = 240.95 ; 設立 = 01/10/1954
+村山市,山形県; 人口 = 27586 ; エリア = 196.83 ; 設立 = 01/11/1954
+長井市,山形県; 人口 = 30285 ; エリア = 214.69 ; 設立 = 15/11/1954
+天童市,山形県; 人口 = 63470 ; エリア = 113.01 ; 設立 = 01/10/1958
+東根市,山形県; 人口 = 46141 ; エリア = 207.17 ; 設立 = 03/11/1958
+尾花沢市,山形県; 人口 = 19937 ; エリア = 372.32 ; 設立 = 10/04/1959
+南陽市,山形県; 人口 = 34542 ; エリア = 160.7 ; 設立 = 01/04/1967
+鶴岡市,山形県; 人口 = 140097 ; エリア = 1311.51 ; 設立 = 01/10/2005
+酒田市,山形県; 人口 = 114964 ; エリア = 602.79 ; 設立 = 01/11/2005
+宇部市,山口県; 人口 = 176370 ; エリア = 287.69 ; 設立 = 01/11/1921
+防府市,山口県; 人口 = 116393 ; エリア = 188.59 ; 設立 = 25/08/1936
+下松市,山口県; 人口 = 54026 ; エリア = 89.36 ; 設立 = 03/11/1939
+美祢市,山口県; 人口 = 17355 ; エリア = 228.25 ; 設立 = 31/03/1954
+周南市,山口県; 人口 = 150299 ; エリア = 656.25 ; 設立 = 21/04/2003
+光市,山口県; 人口 = 53274 ; エリア = 91.94 ; 設立 = 04/10/2004
+下関市,山口県; 人口 = 286073 ; エリア = 716.06 ; 設立 = 13/02/2005
+柳井市,山口県; 人口 = 35438 ; エリア = 139.9 ; 設立 = 21/02/2005
+萩市,山口県; 人口 = 55831 ; エリア = 698.87 ; 設立 = 06/03/2005
+長門市,山口県; 人口 = 39825 ; エリア = 357.92 ; 設立 = 22/03/2005
+山陽小野田市,山口県; 人口 = 65523 ; エリア = 132.99 ; 設立 = 22/03/2005
+山口市,山口県; 人口 = 192008 ; エリア = 730.23 ; 設立 = 01/10/2005
+岩国市,山口県; 人口 = 146885 ; エリア = 872.71 ; 設立 = 20/03/2006
+甲府市,山梨県; 人口 = 199374 ; エリア = 212.41 ; 設立 = 1889-07-01
+富士吉田市,山梨県; 人口 = 51879 ; エリア = 121.83 ; 設立 = 20/03/1951
+都留市,山梨県; 人口 = 34439 ; エリア = 161.58 ; 設立 = 29/04/1954
+大月市,山梨県; 人口 = 29869 ; エリア = 280.3 ; 設立 = 08/08/1954
+韮崎市,山梨県; 人口 = 33539 ; エリア = 143.73 ; 設立 = 10/10/1954
+南アルプス市,山梨県; 人口 = 72295 ; エリア = 264.06 ; 設立 = 01/04/2003
+甲斐市,山梨県; 人口 = 74077 ; エリア = 71.94 ; 設立 = 01/09/2004
+笛吹市,山梨県; 人口 = 71184 ; エリア = 201.92 ; 設立 = 12/10/2004
+北杜市,山梨県; 人口 = 47754 ; エリア = 602.89 ; 設立 = 01/11/2004
+上野原市,山梨県; 人口 = 28295 ; エリア = 170.65 ; 設立 = 13/02/2005
+山梨市,山梨県; 人口 = 38202 ; エリア = 289.87 ; 設立 = 22/03/2005
+甲州市,山梨県; 人口 = 35072 ; エリア = 264.01 ; 設立 = 01/11/2005
+中央市,山梨県; 人口 = 31875 ; エリア = 31.81 ; 設立 = 20/02/2006

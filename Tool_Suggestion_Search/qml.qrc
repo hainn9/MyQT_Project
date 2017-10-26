@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>150px-Cross2.svg.png</file>
+        <file>CitiesInfo.txt</file>
+        <file>fon-pejzazh-sneg-zima-30779.jpg</file>
+        <file>images.png</file>
+        <file>JapanCities.txt</file>
+        <file>font/ms_pgothic.ttf</file>
+    </qresource>
+</RCC>
