@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>es_ads_fragment.vert</file>
+        <file>es_ads_fragment.frag</file>
+        <file>spot_light.frag</file>
+        <file>spot_light.vert</file>
+    </qresource>
+</RCC>

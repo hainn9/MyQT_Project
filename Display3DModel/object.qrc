@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>object/ring.3ds</file>
+        <file>object/ring.dae</file>
+    </qresource>
+</RCC>
