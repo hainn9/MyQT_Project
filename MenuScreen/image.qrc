@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bar/internet_bar.png</file>
+        <file>img/bar/music_bar.png</file>
+        <file>img/bar/navi_bar.png</file>
+        <file>img/bar/phone_bar.png</file>
+        <file>img/bar/weather_bar.png</file>
+        <file>img/icon/icon_internet.png</file>
+        <file>img/icon/icon_music.png</file>
+        <file>img/icon/icon_nav.png</file>
+        <file>img/icon/icon_phone.png</file>
+        <file>img/icon/icon_weather.png</file>
+        <file>img/background.jpg</file>
+        <file>img/app_image/mucsic_player.jpg</file>
+        <file>img/app_image/browser.jpg</file>
+        <file>img/app_image/navi.jpg</file>
+        <file>img/app_image/phone.png</file>
+        <file>img/app_image/weather.jpg</file>
+        <file>img/home.png</file>
+        <file>img/icon/icon_keypad.png</file>
+        <file>img/bar/listbar_internet.png</file>
+        <file>img/icon/icon_bookmarks_list.png</file>
+        <file>img/icon/icon_bookmarks_thumbs.png</file>
+    </qresource>
+</RCC>

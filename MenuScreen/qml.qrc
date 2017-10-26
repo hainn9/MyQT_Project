@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MenuScreen.qml</file>
+        <file>MyModel.qml</file>
+        <file>app/MusicApp.qml</file>
+        <file>app/PhoneApp.qml</file>
+        <file>app/NavigationApp.qml</file>
+        <file>app/BrowserApp.qml</file>
+        <file>app/WeatherApp.qml</file>
+        <file>MenuScreen_Type2.qml</file>
+        <file>AppDetail.qml</file>
+        <file>app/NoteApp.qml</file>
+        <file>MenuView.qml</file>
+        <file>AppView.qml</file>
+        <file>ButtonsDataBookmarks.qml</file>
+        <file>MenuApp.qml</file>
+        <file>Toolbar.qml</file>
+        <file>ToolbarButton.qml</file>
+    </qresource>
+</RCC>
